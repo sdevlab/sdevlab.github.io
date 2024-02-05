@@ -1,14 +1,15 @@
 
-Software Development Methodologies and Verification Research Lab
+<!-- Software Development Methodologies and Verification Research Lab
 ----
 School of Computer Science, Chungbuk National University (CBNU)
+-->
 
 We study the principles of computing and the phenomena of software developments to understand how unreliable and insecure software is produced and threatening in our society. We aim to resolve these problems by developing techniques, tools, methodologies and pedagogies that enhance the ability of developers in testing and debugging software artifacts.
 
 
 News
 -----
-:bulb: SDEV lab will start out in CBNU at Mar 2024 (formerly, ARISE at HGU).
+Feb 1, 2024: SDEV lab will start out in CBNU at Mar 2024 (formerly, ARISE at HGU).
 
 
 Members
