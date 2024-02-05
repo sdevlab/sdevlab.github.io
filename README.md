@@ -27,7 +27,7 @@ hongshin@gmail.com,  https://hongshin.github.io <br>
 <img src="members/jeewoong.jpg" width="150"/>
 
 **Jeewoong Kim 김지웅** <br>
-Ph.D student @CBNU<br>
+Ph.D student<br>
 https://jeewoongkim.github.io
 
 <img src="members/suhyun.jpg"
@@ -46,4 +46,4 @@ sungbin@handong.ac.kr
 <img src="members/kieun.jpg" width=150 />
 
 **Kieun Kim 김기은** <br>
-Master's student @CBNU
+Master's student 
