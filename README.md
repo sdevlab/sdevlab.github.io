@@ -1,3 +1,5 @@
+Research on Software Development and Verification Methdologies (SDEV)
+====
 
 <!-- Software Development Methodologies and Verification Research Lab
 ----
@@ -9,7 +11,7 @@ We study the principles of computing and the phenomena of software developments 
 
 News
 -----
-Feb 1, 2024: SDEV lab will start out in CBNU at Mar 2024 (formerly, ARISE at HGU).
+Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, ARISE at HGU).**
 
 
 Members
