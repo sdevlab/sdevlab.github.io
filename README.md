@@ -1,4 +1,4 @@
-Research on Software Development and Verification Methdologies (SDEV)
+Software Development and Verification Methdologies Lab
 ====
 
 <!-- Software Development Methodologies and Verification Research Lab
