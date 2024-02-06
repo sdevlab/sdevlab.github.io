@@ -1,4 +1,4 @@
-Software Development and Verification Methdologies Lab
+Software Development and Verification Methodologies Lab
 ====
 
 <!-- Software Development Methodologies and Verification Research Lab
