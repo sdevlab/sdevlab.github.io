@@ -6,7 +6,7 @@ School of Computer Science, Chungbuk National University (CBNU)
 -->
 
 <p style="text-align:center;">
-    <img src="sdev-008.png" width=200/> <br>
+    <img src="sdev-010.png" width=200/> <br>
     <a href="https://sdevlab.github.io/#members"> [Members]  </a>
     <a href="https://hongshin.github.io/publications"> [Publications] </a>
     <a href="https://hongshin.github.io/projects"> [Projects]  </a>
