@@ -7,12 +7,11 @@ School of Computer Science, Chungbuk National University (CBNU)
 
 <p style="text-align: center;">
     <img src="sdev-008.png" width=200/>
-</p>
 
 [\[Members\]](index.md#members)  [\[Publications\]](https://hongshin.github.io/publications/
 ) [\[Projects\]](https://hongshin.github.io/projects/) [\[Education\]](https://hongshin.github.io/teaching/)
 
-<p></p>
+</p>
 
 Introduction
 ----
