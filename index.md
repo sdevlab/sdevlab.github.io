@@ -5,6 +5,9 @@
 School of Computer Science, Chungbuk National University (CBNU)
 -->
 
+[\[Members\]](members.md)  [\[Publications\]](publications.md) [\[Projects\]](projects.md) [\[Education\]](edu.md)
+
+
 Introduction
 ----
 
