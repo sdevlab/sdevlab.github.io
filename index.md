@@ -5,7 +5,8 @@
 School of Computer Science, Chungbuk National University (CBNU)
 -->
 
-[\[Members\]](members.md)  [\[Publications\]](publications.md) [\[Projects\]](projects.md) [\[Education\]](edu.md)
+[\[Members\]](index.md#members)  [\[Publications\]](https://hongshin.github.io/publications/
+) [\[Projects\]](https://hongshin.github.io/projects/) [\[Education\]](https://hongshin.github.io/teaching/)
 
 
 Introduction
@@ -19,7 +20,7 @@ News
 Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](http://sites.google.com/view/arise-handong) at [HGU](http://handong.edu)).**
 
 
-Members
+[Members](#members)
 ----
 <img src="https://hongshin.github.io/assets/img/shin.jpg" width="150"/>
 
