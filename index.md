@@ -5,12 +5,7 @@
 School of Computer Science, Chungbuk National University (CBNU)
 -->
 
----
-layout: default
-description: front page
----
-
-Welcome
+Introduction
 ----
 
 We study the principles of computing and the phenomena of software developments to understand how unreliable and insecure software is produced and threatening in our society. We aim to resolve these problems by developing techniques, tools, methodologies and pedagogies that enhance the ability of developers in testing and debugging software artifacts.
@@ -18,7 +13,7 @@ We study the principles of computing and the phenomena of software developments 
 
 News
 -----
-Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, ARISE at HGU).**
+Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](http://sites.google.com/view/arise-handong) at [HGU](http://handong.edu)).**
 
 
 Members
