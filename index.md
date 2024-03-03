@@ -23,9 +23,11 @@ Introduction
 
 We study the principles of computing and the phenomena of software developments to understand how unreliable and insecure software is produced and threatening in our society. We aim to resolve these problems by developing techniques, tools, methodologies and pedagogies that enhance the ability of developers in testing and debugging software artifacts.
 
-> *313 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644)*
-> hongshin@cbnu.ac.kr
-
+<li> Location: 313 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644) </li>
+<li> Contact information: hongshin@cbnu.ac.kr </li>
+<li>
+<a href="https://www.youtube.com/playlist?list=PL0KIMjI8hEDAYMUHQJ0WurQyMDDDFJa4h"> Video clips on our research <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=20 />  </a>
+</li>
 
 News
 -----
