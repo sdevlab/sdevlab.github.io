@@ -48,22 +48,30 @@ hongshin@gmail.com,  https://hongshin.github.io <br>
 
 **Jeewoong Kim 김지웅** <br>
 Ph.D student<br>
-https://jeewoongkim.github.io
+Computer Science Department, <br>
+Chungbuk National University <br>
+jeewoong@cbnu.ac.kr, https://jeewoongkim.github.io
 
-<img src="members/suhyun.jpg"
-width="150"/>
+<img src="members/kieun.jpg" width=150 />
+
+**Kieun Kim 김기은** <br>
+Master's student <br>
+Computer Science Department, <br/>
+Chungbuk National University <br/>
+kieun@cbnu.ac.kr
+
+<img src="members/suhyun.jpg" width="150"/>
 
 **Suhyun Park 박수현** <br>
-Master's student @HGU <br>
+Master's student (co-adivsed with Prof. Jaechang Nam) <br>
+Handong Global University (HGU) <br>
 suhyun@handong.ac.kr / https://coolgogi.github.io
 
 <img src="members/sungbin.jpg" width=150/>
 
 **Sungbin Lim 임성빈** <br>
-Master's student @HGU
+Master's student (co-adivsed with Prof. Jaechang Nam) <br>
+Handong Global University (HGU) <br>
 sungbin@handong.ac.kr 
 
-<img src="members/kieun.jpg" width=150 />
 
-**Kieun Kim 김기은** <br>
-Master's student 
