@@ -19,17 +19,17 @@ Google Drive의 링크에 접근 하기 위해서는 충북대 Google 로그인(
 ### 학부생 연구원 모집
 
 우리 연구실에서 진행하는 기술 스터디와 연구 프로젝트에 참여할 학부생 연구원을 모집합니다.
-모집하는 스터디 및 연구 주제는 다음과 같으며, 각 주제에 대한 추가적인 정보는 링크의 Google Doc에서 보실 수 있습니다:
+모집하는 스터디 및 연구 주제는 다음과 같으며, 각 주제에 대한 추가적인 정보는 링크의 Google Doc에서 보실 수 있습니다(접근을 위해서 충북대 Google 로그인이 필요합니다):
 
-*	프로젝트 변경 이력을 활용한 Greybox Fuzzing 성능 향상 [\[link\]]()
-*	프로그램 변경 이력으로부터 MISRA 코딩규칙 위반 관련 변경 추출 [\[link\]]()
-*	Rust 프로그램 오류 검출을 위한 Greybox Fuzzing 기술 개발 [\[link\]]()
-*	프로그램 문서 정보를 바탕으로 한 SW오류 검출 기술 개발 [\[link\]]()
+*	프로젝트 변경 이력을 활용한 Greybox Fuzzing 성능 향상 [\[link\]](https://docs.google.com/document/d/1H-gsHgbi8nE8AALpQ9kv2K7_c3Yn5bvjMc6gM8rzCwU/edit#bookmark=id.c0qtxvzdigsy)
+*	프로그램 변경 이력으로부터 MISRA 코딩규칙 위반 관련 코드변경 추출 [\[link\]](https://docs.google.com/document/d/1H-gsHgbi8nE8AALpQ9kv2K7_c3Yn5bvjMc6gM8rzCwU/edit#bookmark=id.dz5rz8y7bnk)
+*	Rust 프로그램 오류 검출을 위한 Greybox Fuzzing 기술 개발 [\[link\]](https://docs.google.com/document/d/1H-gsHgbi8nE8AALpQ9kv2K7_c3Yn5bvjMc6gM8rzCwU/edit#bookmark=id.h8xsoggjcps9)
+*	프로그램 문서 정보를 바탕으로 한 SW오류 검출 기술 개발 [\[link\]](https://docs.google.com/document/d/1H-gsHgbi8nE8AALpQ9kv2K7_c3Yn5bvjMc6gM8rzCwU/edit#bookmark=id.pi04lguzcm8o)
 
 아울러, 우리 연구실의 학부생 연구원 지도에 대한 전반적인 설명은 다음 문서에서 보실 수 있습니다:
 
-* 학부생 연구 지도 계획 [\[link\]]()
+* 학부생 연구 지도 계획 [\[link\]](https://docs.google.com/document/d/1mofKEVhebeZiicUMGyAn7KjlB_UqZi3G2_fvsuzpWzM/edit?usp=sharing)
 
-지원을 원하는 학생은 4월 10일까지 hongshin@gmail.com 으로 연락하여 면담 일정을 정하기 바랍니다. 관련하여 질문이 있는 경우도 같은 이메일 주소로 연락바랍니다.
+지원을 원하는 학생은 **4월 10일**까지 [hongshin@gmail.com](mailto:hongshin@gmail.com) 으로 연락하여 면담 일정을 정하기 바랍니다. 관련하여 질문이 있는 경우도 같은 이메일 주소로 연락바랍니다.
 
 -홍신
