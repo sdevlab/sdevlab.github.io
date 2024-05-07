@@ -31,7 +31,7 @@ We study the principles of computing and the phenomena of software developments 
 
 News
 -----
-May 7, 2024. <font color="blue"><b>We are recruiting new graduate students for MS and Ph.D programmes (starting at Sep 2024)</b></font>; find more details at [this page](http://sdevlab.github.io/recruit)
+May 7, 2024. :bulb: We are recruiting **new graduate students for MS and Ph.D programmes (starting at Sep 2024)**; find more details at [this page](http://sdevlab.github.io/recruit)
 
 Mar 28, 2024. Please check out the undergraduate research intership chances at SDEV lab [\[link\]](http://sdevlab.github.io/undergrad)
 
