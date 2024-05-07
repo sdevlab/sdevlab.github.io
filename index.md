@@ -26,12 +26,16 @@ We study the principles of computing and the phenomena of software developments 
 <li> Location: 313 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644) </li>
 <li> Contact information: hongshin@cbnu.ac.kr </li>
 <li>
-<a href="https://www.youtube.com/playlist?list=PL0KIMjI8hEDAYMUHQJ0WurQyMDDDFJa4h"> Video clips on our research <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=20 />  </a>
+<a href="https://www.youtube.com/@hongshin"> Video clips on our research <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=20 />  </a>
 </li>
 
 News
 -----
-Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](http://sites.google.com/view/arise-handong) at [HGU](http://handong.edu)).**
+May 7, 2024. **We are recruiting new graduate students for MS and Ph.D programmes (starting at Sep 2024); find more details at [this page](http://sdevlab.github.io/recruit) :bulb:**
+
+Mar 28, 2024. Please check out the undergraduate research intership chances at SDEV lab [\[link\]](http://sdevlab.github.io/undergrad)
+
+Feb 1, 2024. SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](http://sites.google.com/view/arise-handong) at [HGU](http://handong.edu)).
 
 
 [Members](#members)
@@ -41,7 +45,7 @@ Feb 1, 2024. **SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab
 **Shin Hong  홍신** <br>
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
-hongshin@gmail.com,  https://hongshin.github.io <br>
+hongshin@gmail.com, hongshin@chungbuk.ac.kr,  https://hongshin.github.io <br>
 315, S4-1, Gaesin Campus, Chungbuk National University
 
 <img src="members/jeewoong.jpg" width="150"/>
