@@ -47,8 +47,8 @@ Feb 1, 2024. SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](
 **Shin Hong  홍신** <br>
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
-hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br>
-315, S4-1, Gaesin Campus, Chungbuk National University
+hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
+315, S4-1, Gaesin Campus, Chungbuk National University, Chungju
 
 <img src="members/jeewoong.jpg" width="150"/>
 
@@ -56,8 +56,8 @@ hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io
 Ph.D student<br>
 Computer Science Department, <br>
 Chungbuk National University <br>
-jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a>
-211, S4-1, Gaesin Campus, Chungbuk National University
+jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a><br/>
+211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
 
 <img src="members/kieun.jpg" width=150 />
 
@@ -65,8 +65,8 @@ jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim
 Master's student <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-kieun@cbnu.ac.kr
-211, S4-1, Gaesin Campus, Chungbuk National University
+kieun@cbnu.ac.kr <br/>
+211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
 
 <img src="members/suhyun.jpg" width="150"/>
 
