@@ -23,7 +23,7 @@ Introduction
 
 We study the principles of computing and the phenomena of software developments to understand how unreliable and insecure software is produced and threatening in our society. We aim to resolve these problems by developing techniques, tools, methodologies and pedagogies that enhance the ability of developers in testing and debugging software artifacts.
 
-<li> Location: 313 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644) </li>
+<li> Location: 211 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644) </li>
 <li> Contact information: hongshin@cbnu.ac.kr </li>
 <li>
 <a href="https://www.youtube.com/@hongshin"> Video clips on our research <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=20 />  </a>
@@ -31,6 +31,8 @@ We study the principles of computing and the phenomena of software developments 
 
 News
 -----
+Jul 4, 2024. Relocated the workspace to **Rm. 211** in S4-1 Bldg.
+
 May 7, 2024. :bulb: We are recruiting **new graduate students for MS and Ph.D programmes (starting at Sep 2024)**; find more details at [this page](http://sdevlab.github.io/recruit)
 
 Mar 28, 2024. Please check out the undergraduate research intership chances at SDEV lab [\[link\]](http://sdevlab.github.io/undergrad)
@@ -45,7 +47,7 @@ Feb 1, 2024. SDEV lab will start out in CBNU at Mar 2024 (formerly, [ARISE lab](
 **Shin Hong  홍신** <br>
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
-hongshin@gmail.com, hongshin@chungbuk.ac.kr,  https://hongshin.github.io <br>
+hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br>
 315, S4-1, Gaesin Campus, Chungbuk National University
 
 <img src="members/jeewoong.jpg" width="150"/>
@@ -54,7 +56,8 @@ hongshin@gmail.com, hongshin@chungbuk.ac.kr,  https://hongshin.github.io <br>
 Ph.D student<br>
 Computer Science Department, <br>
 Chungbuk National University <br>
-jeewoong@cbnu.ac.kr, https://jeewoongkim.github.io
+jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a>
+211, S4-1, Gaesin Campus, Chungbuk National University
 
 <img src="members/kieun.jpg" width=150 />
 
@@ -63,13 +66,14 @@ Master's student <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kieun@cbnu.ac.kr
+211, S4-1, Gaesin Campus, Chungbuk National University
 
 <img src="members/suhyun.jpg" width="150"/>
 
 **Suhyun Park 박수현** <br>
 Master's student (co-adivsed with Prof. Jaechang Nam) <br>
 Handong Global University (HGU) <br>
-suhyun@handong.ac.kr / https://coolgogi.github.io
+suhyun@handong.ac.kr / <a href="https://coolgogi.github.io">https://coolgogi.github.io</a>
 
 <img src="members/sungbin.jpg" width=150/>
 
