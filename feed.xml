@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-03T19:34:08+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methdology Lab @CBNU </subtitle><entry><title type="html">김기은 석사과정, 석사연구장려금지원사업 선정</title><link href="/2024/09/28/Project.html" rel="alternate" type="text/html" title="김기은 석사과정, 석사연구장려금지원사업 선정" /><published>2024-09-28T00:30:00+09:00</published><updated>2024-09-28T00:30:00+09:00</updated><id>/2024/09/28/Project</id><content type="html" xml:base="/2024/09/28/Project.html"><![CDATA[<h1 id="김기은-석사과정-석사연구장려금지원사업-선정">김기은 석사과정, 석사연구장려금지원사업 선정</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-08T10:00:37+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methdology Lab @CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집</title><link href="/2024/10/08/Grad-Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집" /><published>2024-10-08T00:00:00+09:00</published><updated>2024-10-08T00:00:00+09:00</updated><id>/2024/10/08/Grad-Recruit</id><content type="html" xml:base="/2024/10/08/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+
+<p>2024년 10월 8일</p>
+
+<p><strong>충북대학교 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.</strong></p>
+
+<ul>
+  <li>
+    <p><strong>2024-10-08 대학원 설명회 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">링크</a></strong></p>
+  </li>
+  <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
+  <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
+  <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
+    <ul>
+      <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
+    </ul>
+  </li>
+  <li>참고: 학부연구인턴 모집 안내 <a href="http://sdevlab.github.com/undergrad">[link]</a></li>
+</ul>
+
+<h3 id="연구분야-및-연구실-소개">연구분야 및 연구실 소개</h3>
+
+<p>SDEV 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe &amp; Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가, 
+라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 연구를 수행하고 있으며, 특별히 소프트웨어 엔지니어링 분야 중 다음의 주제를 중심으로 연구하고 있습니다:</p>
+
+<ul>
+  <li>소프트웨어 테스팅(Software Engineering)</li>
+  <li>프로그램 분석(Program Analysis)</li>
+  <li>컴퓨팅 논리학(Computational Logic)</li>
+  <li>시스템 소프트웨어(System Software)</li>
+  <li>최적화 기반 탐색 (Stochastic Optimization)</li>
+</ul>
+
+<p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
+SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a></p>
+
+<p>SDEV 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과정)에 진학하는 학생은 기술중심 소프트웨어 공학 방법론을 능동적이고 비판적으로 활용하여 
+사회에서 SW공학적 지식과 가치를 창출하는 책임을 다 할 수 있는 연구자로 성장할 수 있도록 지도합니다. 
+대학원 신입생의 경우, 지금까지 학부 교육 내용을 바탕으로 우리 연구실의 연구에 참여하는데 필요한 기반 기술과 지식을 습득할 수 있도록
+훈련하고, 이를 바탕으로 소프트웨어 공학분야에서 실제적이면서 도전할 만한 
+연구문제를 찾아 2년간 혹은 4년간 집중력 있게 문제해결형 연구를 수행하게 됩니다.</p>
+
+<p>SDEV 연구실(이전 ARISE 연구실@HGU)의 졸업생은 현재 소프트웨어 엔지니어링 분야의 연구원 및 개발자로 활동하고 있습니다:</p>
+<ul>
+  <li>김지웅: 현재 충북대학교 박사과정 (2023년 한동대 BK21 우수연구상)</li>
+  <li>유한영: 현재 SAP Labs Korea (2022년 한동대 석사졸업논문상)</li>
+  <li>전주영: 현재 Hyundai MOBIS (2021년 한동대 석사졸업논문상, 2019년 소프트웨어공학소사이티 우수논문상 등)</li>
+  <li>최한솔: 현재 SuresoftTech Inc. (2021년 한동대 석사졸업논문상, 2020년 KCSE 우수논문상 등)</li>
+</ul>
+
+<h3 id="참여-가능한-프로젝트와-학업지원">참여 가능한 프로젝트와 학업지원</h3>
+
+<p>대학원에 진학하는 학생은 지도교수가 연구책임자로 진행 중인 국책 연구 과제, 공동 연구 과제, 우수 기업체 산학 프로젝트에 참여하여 논문작성, 국내외 공동연구, 
+SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2024년 5월 현재 SDEV 연구실에서 진행 중인 연구 프로젝트는 아래와 같습니다:</p>
+
+<ul>
+  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 연구재단</li>
+  <li>지능형 자동 소스코드 수정 기술 개발, 2021-2024, 슈어소프트테크, 아크릴, KAIST, UNIST 공동연구</li>
+</ul>
+
+<p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
+우리 연구실은 각종 프로젝트를 통해 대학원생이 연구과 학업에 온전히 집중할 수 있는 학업 환경을 갖추는 것을 제일 목표로 지원하고 있습니다.
+또한 연구실을 거치는 동안 우리 사회의 소프트웨어 공학분야의 연구자로서 발전할 수 있도록 성장에 필요한 유형적, 무형적 자원을 적극 지원해오고 있습니다.</p>
+
+<h3 id="연락방법">연락방법</h3>
+<p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
+
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">김기은 석사과정, 석사연구장려금지원사업 선정</title><link href="/2024/09/28/Project.html" rel="alternate" type="text/html" title="김기은 석사과정, 석사연구장려금지원사업 선정" /><published>2024-09-28T00:30:00+09:00</published><updated>2024-09-28T00:30:00+09:00</updated><id>/2024/09/28/Project</id><content type="html" xml:base="/2024/09/28/Project.html"><![CDATA[<h1 id="김기은-석사과정-석사연구장려금지원사업-선정">김기은 석사과정, 석사연구장려금지원사업 선정</h1>
 
 <p>우리 연구실 김기은 학생이 교육부와 한국연구재단이 지원하는 2024 하반기 이공계 석사과정 연구장려금 지원 사업의 연구책임자로 선정되었습니다.</p>
 
