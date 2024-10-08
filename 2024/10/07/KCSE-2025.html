@@ -134,66 +134,29 @@
 		</div>
 		<div class="content">
 			<article class="post">
-	<header class="post-header home">
-		<div class="post-title">Category - <span id='category-name'></span></div>
+	<header class="post-header">
+		<div class="post-title"> 
+			2025 한국 소프트웨어공학 학술대회(KCSE) 개최 안내
+		</div>
+		<time class="post-date dt-published" datetime="2024-10-07T00:00:00+09:00" itemprop="datePublished">2024/10/07
+		</time>		
 	</header>
 
-	<div class="post-content"><ul class="post-list"><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/10/08</span>
-				<a class="post-link" href="/2024/10/08/Grad-Recruit.html">
-					SDEV 연구실 대학원생 모집(2025년 상반기)
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/10/07</span>
-				<a class="post-link" href="/2024/10/07/KCSE-2025.html">
-					2025 한국 소프트웨어공학 학술대회(KCSE) 개최 안내
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/09/28</span>
-				<a class="post-link" href="/2024/09/28/Project.html">
-					김기은 석사과정, 석사연구장려금지원사업 선정
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/08/13</span>
-				<a class="post-link" href="/2024/08/13/Website-Renewed.html">
-					Website Renewed
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/07/04</span>
-				<a class="post-link" href="/2024/07/04/Relocated.html">
-					Lab space relocated to Room 211 in S4-1
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/05/06</span>
-				<a class="post-link" href="/2024/05/06/Recruit.html">
-					SDEV 연구실 대학원생 모집
-				</a></li><li class="post-list-item post-category-">
-				<!----><span class="post-date">2024/02/01</span>
-				<a class="post-link" href="/2024/02/01/start.html">
-					SDEV lab starts out in CBNU at Mar 2024 (formely, ARISE lab at HGU)
-				</a></li></ul></div>
+	<div class="post-content">
+		<h1 id="kcse-2025-개최-안내">KCSE 2025 개최 안내</h1>
+
+<p>https://sigsoft.or.kr/kcse2025</p>
+
+<p><a href="https://sigsoft.or.kr/kcse2025/">제 27회 한국 소프트웨어공학 학술대회(KCSE 2025)</a>가 2025년 1월 20~22일 강원도 평창군 한화리조트 평창에서 열립니다.</p>
+
+<p>논문 접수 기간은 2024년 11월 1일부터 2024년 12월 20일까지입니다.</p>
+
+<p>이번 행사에서는 “지능형 개발 기술과 소프트웨어 공학의 미래”를 주제로 다양한 발표와 토론이 있을 예정입니다. 논문 모집과 학회 행사에 많은 관심과 참여 부탁드립니다.</p>
+
+<p>-학술위원장 홍신</p>
+
+	</div>
 </article>
-
-<script src="/public/js/jquery-3.4.1.slim.min.js"></script>
-<script>
-	function removeCategory() {
-		if (window.location.hash) {
-			let hash = window.location.hash.substring(1);
-			$('#category-name').text(hash.substring(0, 1).toUpperCase() + hash.substring(1));
-			let category_class = '.post-category-' + hash;
-			let items = $('.post-list-item').each((i, e) => {
-				if (!$(e).hasClass('post-category-' + hash)) {
-					$(e).hide();
-				} else {
-					$(e).show();
-				}
-			});
-		}
-	}
-	$(window).on('hashchange', () => {
-		removeCategory();
-	});
-	$(document).ready(() => {
-		removeCategory();	
-	})
-	
-</script>
-
 		</div>
 	</div>
   </body>
