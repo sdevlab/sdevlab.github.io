@@ -1,0 +1,15 @@
+<article class="post">
+	<header class="post-header" style="width: 775px; padding: 15px;">
+		<div class="post-title" style="width: 775px; padding: 15px;">
+			{{ page.title | escape }}
+		</div>
+		<time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+			{%- assign date_format = site.date_forma | default: "%Y/%m/%d" -%}
+			{{ page.date | date: date_format }}
+		</time>		
+	</header>
+
+	<div class="post-content" style="width: 775px; font-size: 17px; text-align: justify; padding: 15px;">
+		{{ content }}
+	</div>
+</article>

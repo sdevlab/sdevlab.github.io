@@ -1,0 +1,67 @@
+<article class="post">
+
+  <p>
+	</br>
+	</br>
+  </p>
+
+  <p>
+
+<center>
+
+  <img src="/public/img/sdev-010.png" width=150 />
+  </br>
+
+  <font size="5.5" type="Gelasio">
+	Software Development and Verification Methodologies Lab </br>
+
+	소프트웨어 개발검증 연구실@충북대학교</br>
+  </font>
+
+  <a href="https://github.com/sdevlab">[Github]</a> <a href="https://www.youtube.com/@hongshin">[YouTube]</a> 
+  <a href="https://maps.app.goo.gl/jyuB7rsU7Xap4s3u7">[Google Map]</a>
+
+<div id="labstmt" style="width: 775px; font-size: 15px; text-align: justify; padding: 15px;" />
+<!-- <div id="labstmt" style="width: 775px; font-size: 15px; text-align: justify; background-color: #F2F2F2; padding: 15px;" />-->
+We study the principles of computing and phenomena of software engineering to understand how unreliable or insecure software is produced and threatening in our society. We aim to resolve this software quality problem by creating techniques, tools, methodologies and pedagogies that enhance the ability of developers in writing, debugging and verifying software.
+</div>
+<div id="labstmt" style="width: 775px; font-size: 15px; text-align: justify; padding: 15px;" />
+<!--<div id="labstmt" style="width: 775px; font-size: 15px; text-align: justify; background-color: #F2F2F2; padding: 15px;" />-->
+SDEV 연구실은 우리 사회의 안전을 위헙하는 소프트웨어 불량 문제를 막기 위해 소프트웨어 엔지니어링 현상과 컴퓨팅 원리를 탐구합니다 / 안전하고 이로운 소프트웨어를 만들기 위한 개발 및 검증 기술, 도구, 방법론, 교육법을 만듭니다 / 우리 사회를 유연하고도 든든하게 연결하는 소프트웨어 엔지니어링 기술을 연구합니다 / 새로운 소프트웨어 엔지니어링을 열어 갈 소프트웨어 품질 엔지니어(Software Quality Engineer), 소프트웨어 분석 전문가(Software Analyst), 소프트웨어 기술 연구자(Research Scientist in Software Engineering)를 기릅니다.
+
+</div>
+
+
+<div id="homebody" style="width: 800px;">
+
+<h3> News </h3>
+  <div class="post-content" style="text-align: left;">
+   {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+  	    {%- if post.visible > 0 -%}
+        <li class="post-list-item">
+          <!-- {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%} -->
+          {%- assign date_format = "%Y/%m/%d" -%}
+          <span class="post-date">{{ post.date | date: date_format }}</span>
+      	  <a class="post-link" href="{{ post.url | relative_url }}">
+    	    {{ post.title | escape }}
+		  </a>
+          {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
+        </li>
+	    {%- endif -%}
+      {%- endfor -%}
+    </ul>
+   {%- endif -%}
+  </div>
+<p>
+<center>
+<font size="2.5">
+211 S4-1 bldg. Chungbuk National University, Chungdae-ro, Seowon-gu, Cheongju, Chungbuk, South Korea (28644) <br>
+Contact Information: Shin Hong <a href="hongshin@cbnu.ac.kr">hongshin@cbnu.ac.kr </a>
+</font>
+</p>
+</div>
+</center>
+
+</article>
