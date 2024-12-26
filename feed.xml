@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T23:24:40+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T23:27:19+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2024년 12월 26일
 <br /><br /></p>
@@ -26,11 +26,9 @@
 라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 연구를 수행하고 있으며, 특별히 소프트웨어 엔지니어링 분야 중 다음의 주제를 중심으로 연구하고 있습니다:</p>
 
 <ul>
-  <li>소프트웨어 테스팅(Software Engineering)</li>
+  <li>소프트웨어 테스팅(Software Testing)</li>
   <li>프로그램 분석(Program Analysis)</li>
-  <li>컴퓨팅 논리학(Computational Logic)</li>
-  <li>시스템 소프트웨어(System Software)</li>
-  <li>최적화 기반 탐색 (Stochastic Optimization)</li>
+  <li>시스템 소프트웨어(System Software) 검증 및 분석</li>
 </ul>
 
 <p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
