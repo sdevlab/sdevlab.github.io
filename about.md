@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About ###
 
-Founded in 2018, SDEV Lab (formely known as ARISE Lab at HGU) has been researching
+Founded in 2018, SDEV Lab (formely, [ARISE Lab](https://sites.google.com/view/arise-handong) at HGU) has been researching
 software engineering methodologies to assist developers in building and maintaining
 their software products correctly and securely.
 SDEV Lab aims to transform more aspects of software development into structured engineering tasks by
