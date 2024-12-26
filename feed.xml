@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T23:14:43+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T23:24:40+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2024년 12월 26일
-<br /></p>
+<br /><br /></p>
 
-<p>2025년 대학원 전기 추가 모집을 통해 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다(2025년 전기 대학원 추가 모집은 1월 중순 예정).</p>
-
-<p>대학원 진학에 관심이 있으시다면 <strong>2025년 1월 6일까지 이메일(hongshin@gmail.com)로 연락</strong>하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
+<p>2025년 대학원 전기 추가 모집을 통해 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다(2025년 전기 대학원 추가 모집은 1월 중순 예정).
+대학원 진학에 관심이 있으시다면 <strong>2025년 1월 6일까지 이메일(hongshin@gmail.com)로 연락</strong>하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
 <ul>
   <li><strong>연구실 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong>
@@ -35,7 +34,8 @@
 </ul>
 
 <p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
-SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a></p>
+SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a>
+<br /><br /></p>
 
 <p>SDEV 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과정)에 진학하는 학생은 기술중심 소프트웨어 공학 방법론을 능동적이고 비판적으로 활용하여 
 사회에서 SW공학적 지식과 가치를 창출하는 책임을 다 할 수 있는 연구자로 성장할 수 있도록 지도합니다. 
@@ -57,13 +57,12 @@ SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 �
 <p>대학원에 진학하는 학생은 지도교수가 연구책임자로 진행 중인 국책 연구 과제, 공동 연구 과제, 우수 기업체 산학 프로젝트에 참여하여 논문작성, 국내외 공동연구, 
 SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2025년 현재 SDEV 연구실에서 진행 중인 연구 프로젝트는 아래와 같습니다:</p>
 <ul>
-  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
-  <li>효과적인 디버깅 지원을 퍼즈 테스트 복제 기법 연구, 이공계 석사과정 연구장려금 지원사업, 2024-2025, 한국연구재단</li>
+  <li>오류 재현을 위한 SW테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
+  <li>효과적인 디버깅 지원을 퍼즈 테스트 복제 기법 연구(김기은 석사과정), 이공계 석사과정 연구장려금 지원사업, 2024-2025, 한국연구재단</li>
 </ul>
 
-<p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
-우리 연구실은 각종 프로젝트를 통해 대학원생이 연구과 학업에 온전히 집중할 수 있는 학업 환경을 갖추는 것을 제일 목표로 지원하고 있습니다.
-또한 연구실을 거치는 동안 우리 사회의 소프트웨어 공학분야의 연구자로서 발전할 수 있도록 성장에 필요한 유형적, 무형적 자원을 적극 지원해오고 있습니다.</p>
+<p>우리 연구실은 대학원생이 학위연구와 직접 관련된 기초연구과제 혹은 산업체R&amp;D 프로젝트에 참여하며 학생연구비를 지원 받을 수 있도록 지원합니다. 프로젝트 참여는 연구과 학업에 온전히 집중할 수 있는 환경을 만드는 것을 목표로 하며, 연구와 연관이 없는 과제 참여를 지양합니다.
+또한, 대학원 과정을 통해 우리 사회의 소프트웨어 공학 분야의 연구자로서 성장하는데 필요한 여러 경험과 경력을 쌓을 수 있도록 다양한 방편으로 적극 지원하고 있습니다.</p>
 
 <p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 상반기)</title><link href="/2024/10/08/Grad-Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 상반기)" /><published>2024-10-08T00:00:00+09:00</published><updated>2024-10-08T00:00:00+09:00</updated><id>/2024/10/08/Grad-Recruit</id><content type="html" xml:base="/2024/10/08/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
