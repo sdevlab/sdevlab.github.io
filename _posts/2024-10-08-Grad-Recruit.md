@@ -2,7 +2,7 @@
 layout: post
 title: SDEV 연구실 대학원생 모집(2025년 상반기)
 date: 2024-10-08 00:00:00 +0900
-visible: 1 
+visible: 0
 ---
 
 # SDEV 연구실 대학원생 모집
