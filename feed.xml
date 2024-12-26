@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T22:47:19+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-12-26T23:14:43+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
-<p>2024년 12월 26일</p>
+<p>2024년 12월 26일
+<br /></p>
 
-<p>2025년도 전기 충북대학교 일반대학원 추가모집이 2025년 1월 중순에 있을 예정입니다(예년 일정에 따르면, 2025년 1월 20일 즈음에 원서 접수 마감).</p>
+<p>2025년 대학원 전기 추가 모집을 통해 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다(2025년 전기 대학원 추가 모집은 1월 중순 예정).</p>
 
-<p>2025년 3월부터 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.</p>
-
-<p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 2025년 1월 9일까지 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
+<p>대학원 진학에 관심이 있으시다면 <strong>2025년 1월 6일까지 이메일(hongshin@gmail.com)로 연락</strong>하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
 <ul>
-  <li>
-    <p><strong>연구실 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong></p>
-  </li>
-  <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
-  <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
-  <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
+  <li><strong>연구실 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong>
     <ul>
-      <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
+      <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
+      <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
+      <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
+        <ul>
+          <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
