@@ -10,7 +10,7 @@ permalink: /members/
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
 hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
-315, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+316, S4-1, Gaesin Campus, Chungbuk National University, Chungju
 <br/> <br/>
 
 <img src="/public/img/jeewoong.jpg" width="150"/>
