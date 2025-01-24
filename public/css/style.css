@@ -99,7 +99,7 @@ code {
 	padding: 15px;
 	z-index: 1;
 	background-color: #f8f9fa;
-	color: #6610f2; 
+	color: #003B7A; 
 }
 
 .sidebar-item {
@@ -114,12 +114,12 @@ code {
 .sidebar-brand > a {
 	font-size: 300%;
 	font-family: 'Open Sans';
-	color: #6610f2;
+	color: #003B7A;
 }
 
 .lead {
 	font-size: 100%;
-	color: #6610f2;
+	color: #003B7A;
 }
 
 .sidebar-header {
@@ -142,7 +142,7 @@ a.nav-item {
 	font-size: 120%;
 	font-family: "Noto Sans";
 	text-transform: capitalize;
-	color: #6610f2;
+	color: #003B7A;
 }
 
 a.nav-item:hover { color: #777; }
