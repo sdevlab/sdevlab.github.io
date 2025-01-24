@@ -98,9 +98,8 @@ code {
 	flex: 0 0 280px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #104862;
-	color: #FFFFFF;
-
+	background-color: #f8f9fa;
+	color: #6610f2; 
 }
 
 .sidebar-item {
