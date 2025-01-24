@@ -114,12 +114,12 @@ code {
 .sidebar-brand > a {
 	font-size: 300%;
 	font-family: 'Open Sans';
-	color: #fff;
+	color: #6610f2;
 }
 
 .lead {
-	font-size: 120%;
-	color: #FFFFFF;
+	font-size: 100%;
+	color: #6610f2;
 }
 
 .sidebar-header {
@@ -142,7 +142,7 @@ a.nav-item {
 	font-size: 120%;
 	font-family: "Noto Sans";
 	text-transform: capitalize;
-	color: #FFFFFF;
+	color: #6610f2;
 }
 
 a.nav-item:hover { color: #777; }
