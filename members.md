@@ -7,56 +7,66 @@ permalink: /members/
 <img src="https://hongshin.github.io/assets/img/shin.jpg" width="150"/>
 
 **Shin Hong  홍신** <br>
+
+<font size=3>
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
 hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
 316, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+</font>
 <br/> <br/>
 
 <img src="/public/img/jeewoong.jpg" width="150"/>
 
 **Jeewoong Kim 김지웅** <br>
+
+<font size=3>
 Ph.D student<br>
 Computer Science Department, <br>
 Chungbuk National University <br>
 jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a><br/>
 211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+</font>
 <br/> <br/>
 
 <img src="/public/img/kieun.jpg" width=150 />
 
 **Kieun Kim 김기은** <br>
+
+<font size=3>
 Master's student <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kieun@cbnu.ac.kr <br/>
 211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+</font>
 <br/> <br/>
 
-<img src="/public/img/suhyun.jpg" width="150"/>
 
-**Suhyun Park 박수현** <br>
-Master's student (co-adivsed with Prof. Jaechang Nam) <br>
-Handong Global University (HGU) <br>
-suhyun@handong.ac.kr / <a href="https://coolgogi.github.io">https://coolgogi.github.io</a>
-<br/> <br/>
 
-<img src="/public/img/sungbin.jpg" width=150/>
+<img src="/public/img/narin.jpg" width=150 />
 
-**Sungbin Lim 임성빈** <br>
-Master's student (co-adivsed with Prof. Jaechang Nam) <br>
-Handong Global University (HGU) <br>
-sungbin@handong.ac.kr
-<br/> <br/>
+**Narin Han 한나린** <br>
+
+<font size=3>
+Master's student <br>
+Computer Science Department, <br/>
+Chungbuk National University <br/>
+211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+</font>
+<br/><br/>
+
 
 ### Alumni ###
-
-* Hanyoung Yoo, Master’s Degree at Feb 2022, currently Software Engineer at SAP Labs Korea
-* Jeewoong Kim, Master’s Degree at Aug 2021, currently Ph.D Student at CBNU
-* Juyoung Jeon, Master’s Degree at Feb 2021, currently Software Engineer at Hyundai MOBIS
-* Hansol Choe, Master’s Degree at Feb 2021, currently Research Engineer at SuresoftTech Inc.
+* Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2024. 
+* Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2024. Currently Software Engineer at SuresoftTech Inc.
+* Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea
+* Jeewoong Kim, Master’s Degree, HGU, Aug 2021. Currently Ph.D Student at CBNU
+* Juyoung Jeon, Master’s Degree, HGU, Feb 2021. Currently Software Engineer at Hyundai MOBIS
+* Hansol Choe, Master’s Degree, HGU, Feb 2021. Currently Research Engineer at SuresoftTech Inc.
 
 ### Undergraduate research interns ###
+* Soomin Choi, Jan 2025-present
 * Narin Han, June 2024–present
 * Borim Na, Sep 2023–Dec 2023
 * Haerim Jun, Sep 2023–Dec 2023

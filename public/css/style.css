@@ -1,5 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
 @import url(syntax/monokai.css);
 
 :root {
@@ -29,8 +29,8 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Roboto", "Nanum Gothic";
-  --font-family-serif: "Nanum Myeongjo";
+  --font-family-sans-serif: "Roboto", "Noto Sans KR";
+  --font-family-serif: "Noto Sans KR";
 }
 
 * {
@@ -49,7 +49,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
+	font-family: 'Open Sans', 'Noto Sans KR', serif;
 	color: #2c3e50;
 }
 
@@ -98,9 +98,8 @@ code {
 	flex: 0 0 280px;
 	padding: 15px;
 	z-index: 1;
-	background-color: #104862;
-	color: #FFFFFF;
-
+	background-color: #f8f9fa;
+	color: #003B7A; 
 }
 
 .sidebar-item {
@@ -114,13 +113,13 @@ code {
 
 .sidebar-brand > a {
 	font-size: 300%;
-	font-family: 'Gelasio';
-	color: #fff;
+	font-family: 'Open Sans';
+	color: #003B7A;
 }
 
 .lead {
-	font-size: 120%;
-	color: #FFFFFF;
+	font-size: 100%;
+	color: #003B7A;
 }
 
 .sidebar-header {
@@ -143,7 +142,7 @@ a.nav-item {
 	font-size: 120%;
 	font-family: "Noto Sans";
 	text-transform: capitalize;
-	color: #FFFFFF;
+	color: #003B7A;
 }
 
 a.nav-item:hover { color: #777; }
@@ -233,7 +232,7 @@ article h3,
 article h4,
 article h5,
 article h6 {
-	font-family: "Roboto", "Nanum Gothic";
+	font-family: "Roboto", "Noto Sans KR";
 	color: #333;
   	margin-bottom: 0;
 }
