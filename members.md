@@ -58,8 +58,8 @@ Chungbuk National University <br/>
 
 
 ### Alumni ###
-* Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2024. 
-* Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2024. Currently Software Engineer at SuresoftTech Inc.
+* Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. 
+* Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. Currently Software Engineer at SuresoftTech Inc.
 * Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea
 * Jeewoong Kim, Master’s Degree, HGU, Aug 2021. Currently Ph.D Student at CBNU
 * Juyoung Jeon, Master’s Degree, HGU, Feb 2021. Currently Software Engineer at Hyundai MOBIS
@@ -67,7 +67,7 @@ Chungbuk National University <br/>
 
 ### Undergraduate research interns ###
 * Soomin Choi, Jan 2025-present
-* Narin Han, June 2024–present
+* Narin Han, June 2024–Feb 2025
 * Borim Na, Sep 2023–Dec 2023
 * Haerim Jun, Sep 2023–Dec 2023
 * Heechan Yang, Dec 2022–Aug 2023
