@@ -12,7 +12,7 @@ permalink: /members/
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
 hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
-316, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+316, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 </font>
 <br/> <br/>
 
@@ -21,11 +21,11 @@ hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io
 **Jeewoong Kim 김지웅** <br>
 
 <font size=3>
-Ph.D student<br>
+Ph.D student (started in Mar 2022 at HGU; joined CBNU in Mar 2024) <br>
 Computer Science Department, <br>
 Chungbuk National University <br>
 jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a><br/>
-211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 </font>
 <br/> <br/>
 
@@ -34,11 +34,11 @@ jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim
 **Kieun Kim 김기은** <br>
 
 <font size=3>
-Master's student <br>
+Master's student (started in Mar 2023, joined CBNU at Mar 2024) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kieun@cbnu.ac.kr <br/>
-211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 </font>
 <br/> <br/>
 
@@ -49,12 +49,39 @@ kieun@cbnu.ac.kr <br/>
 **Narin Han 한나린** <br>
 
 <font size=3>
-Master's student <br>
+Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-211, S4-1, Gaesin Campus, Chungbuk National University, Chungju
+211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 </font>
 <br/><br/>
+
+<img src="/public/img/junhee.jpg" width=150 />
+
+**Junhee Kim 김준희** <br>
+
+<font size=3>
+Master's student (started in Mar 2025) <br>
+Computer Science Department, <br/>
+Chungbuk National University <br/>
+211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+
+</font>
+<br/><br/>
+
+<img src="/public/img/byul.jpg" width=150 />
+
+**Byul Yoon 윤별** <br>
+
+<font size=3>
+Undergraduate students (joined as a lab member in Mar 2025) <br>
+Computer Science Department, <br/>
+Chungbuk National University <br/>
+211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+
+</font>
+<br/><br/>
+
 
 
 ### Alumni ###
