@@ -52,18 +52,20 @@ kieun@cbnu.ac.kr <br/>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
+narinhan@cbnu.ac.kr <br/>
 211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 </font>
 <br/><br/>
 
 <img src="/public/img/junhee.jpg" width=150 />
 
-**Junhee Kim 김준희** <br>
+**Junheui Kim 김준희** <br>
 
 <font size=3>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
+kimjoonheui@cbnu.ac.kr <br/>
 211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 
 </font>
