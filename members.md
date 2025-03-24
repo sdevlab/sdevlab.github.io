@@ -42,8 +42,6 @@ kieun@cbnu.ac.kr <br/>
 </font>
 <br/> <br/>
 
-
-
 <img src="/public/img/narin.jpg" width=150 />
 
 **Narin Han 한나린** <br>
@@ -59,7 +57,7 @@ narinhan@cbnu.ac.kr <br/>
 
 <img src="/public/img/junhee.jpg" width=150 />
 
-**Junheui Kim 김준희** <br>
+**Joonheui Kim 김준희** <br>
 
 <font size=3>
 Master's student (started in Mar 2025) <br>
