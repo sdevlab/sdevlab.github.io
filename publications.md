@@ -12,11 +12,11 @@ permalink: /publications/
 <font size=3> 
 <li> 
 Kieun Kim, Seongmin Lee, Shin Hong,
-Refining Fuzzed Crashing Inputs for Better Fault Diagnosis <br/>
-, To be presented at the Poster Track, FSE 2025
+Refining Fuzzed Crashing Inputs for Better Fault Diagnosis,
+to be presented at the Poster Track in FSE 2025
+<br/><br/>
 </li>
 </font>
-<br/><br/>
 
 
 <font size=3> <li> 
