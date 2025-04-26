@@ -8,7 +8,7 @@ permalink: /members/
 
 **Shin Hong  홍신** <br>
 
-<font size=3>
+<font size=2>
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
 hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
@@ -20,7 +20,7 @@ office: 316@S4-1
 
 **Jeewoong Kim 김지웅** <br>
 
-<font size=3>
+<font size=2>
 Ph.D student (started in Mar 2022 at HGU; joined CBNU in Mar 2024) <br>
 Computer Science Department, <br>
 Chungbuk National University <br>
@@ -33,7 +33,7 @@ office: 211@S4-1
 
 **Kieun Kim 김기은** <br>
 
-<font size=3>
+<font size=2>
 Master's student (started in Mar 2023, joined CBNU at Mar 2024) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
@@ -46,7 +46,7 @@ office: 211@S4-1
 
 **Narin Han 한나린** <br>
 
-<font size=3>
+<font size=2>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
@@ -59,7 +59,7 @@ office: 211@S4-1
 
 **Joonheui Kim 김준희** <br>
 
-<font size=3>
+<font size=2>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
@@ -73,7 +73,7 @@ office: 211@S4-1
 
 **Trần Lâm Huệ Quyên (Rose)** <br>
 
-<font size=3>
+<font size=2>
 Bacheol-Master Integrated Program between CBNU and Duy Tan University, Vietnam (joined in SDEV lab at Apr 2025) <br>
 Computer Science Department, Chungbuk National University <br/>
 tranlamhuequyen@chungbuk.ac.kr<br/>
@@ -86,7 +86,7 @@ office: 211@S4-1
 
 **Byul Yoon 윤별** <br>
 
-<font size=3>
+<font size=2>
 Undergraduate students (joined as a lab member in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
@@ -96,6 +96,10 @@ office: 211@S4-1
 
 
 ### Alumni ###
+
+<font size=2>
+
+
 * Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. 
 * Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. Currently Software Engineer at SuresoftTech Inc.
 * Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea
@@ -103,7 +107,12 @@ office: 211@S4-1
 * Juyoung Jeon, Master’s Degree, HGU, Feb 2021. Currently Software Engineer at Hyundai MOBIS
 * Hansol Choe, Master’s Degree, HGU, Feb 2021. Currently Research Engineer at SuresoftTech Inc.
 
+</font>
+
 ### Undergraduate research interns ###
+
+<font size=2>
+
 * Soomin Choi, Jan 2025-present
 * Narin Han, June 2024–Feb 2025
 * Borim Na, Sep 2023–Dec 2023
@@ -119,4 +128,7 @@ office: 211@S4-1
 * Jaehun Lee, Sep 2017-Jun 2018
 * Hansol Choe, Sep 2017-Feb 2018
 * Kyungsu Lee, Jul 2017-Dec 2017
+
+
+</font>
 
