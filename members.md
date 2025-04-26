@@ -70,7 +70,9 @@ office: 211@S4-1
 
 
 <img src="/public/img/rose.png" width=150/>
+
 **Trần Lâm Huệ Quyên (Rose)** <br>
+
 <font size=3>
 Bacheol-Master Integrated Program between CBNU and Duy Tan University, Vietnam (joined in SDEV lab at Apr 2025) <br>
 Computer Science Department, Chungbuk National University <br/>
@@ -81,7 +83,9 @@ office: 211@S4-1
 
 
 <img src="/public/img/byul.jpg" width=150 />
+
 **Byul Yoon 윤별** <br>
+
 <font size=3>
 Undergraduate students (joined as a lab member in Mar 2025) <br>
 Computer Science Department, <br/>
