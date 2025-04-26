@@ -12,7 +12,7 @@ permalink: /members/
 Associate Professor, School of Computer Science, CBNU <br>
 Ph.D in Computer Science, KAIST <br>
 hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
-316, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+office: 316@S4-1
 </font>
 <br/> <br/>
 
@@ -25,7 +25,7 @@ Ph.D student (started in Mar 2022 at HGU; joined CBNU in Mar 2024) <br>
 Computer Science Department, <br>
 Chungbuk National University <br>
 jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a><br/>
-211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+office: 211@S4-1
 </font>
 <br/> <br/>
 
@@ -38,7 +38,7 @@ Master's student (started in Mar 2023, joined CBNU at Mar 2024) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kieun@cbnu.ac.kr <br/>
-211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+office: 211@S4-1
 </font>
 <br/> <br/>
 
@@ -51,7 +51,7 @@ Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 narinhan@cbnu.ac.kr <br/>
-211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
+office: 211@S4-1
 </font>
 <br/><br/>
 
@@ -64,12 +64,22 @@ Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kimjoonheui@cbnu.ac.kr <br/>
-211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
-
+office: 211@S4-1
 </font>
 <br/><br/>
 
 <img src="/public/img/byul.jpg" width=150 />
+
+
+**Trần Lâm Huệ Quyên (Rose)** <br>
+
+<font size=3>
+Bacheol-Master Integrated Program between CBNU and Duy Tan University, Vietnam (joined in SDEV lab at Apr 2025) <br>
+Computer Science Department, Chungbuk National University <br/>
+tranlamhuequyen@chungbuk.ac.kr<br/>
+office: 211@S4-1
+</font>
+<br/><br/>
 
 **Byul Yoon 윤별** <br>
 
@@ -77,10 +87,11 @@ kimjoonheui@cbnu.ac.kr <br/>
 Undergraduate students (joined as a lab member in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-211, S4-1, Gaesin Campus (Cheongju), Chungbuk National University
 
 </font>
 <br/><br/>
+
+
 
 
 

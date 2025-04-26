@@ -8,13 +8,23 @@ permalink: /publications/
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
 <ol>
+
+<font size=3> 
+<li> 
+Kieun Kim, Seongmin Lee, Shin Hong,
+Refining Fuzzed Crashing Inputs for Better Fault Diagnosis <br/>
+will be presented at the Poster Track, FSE 2025
+</li>
+</font>
+
+
 <font size=3> <li> 
 A. Lee, Y. Choi., S. Hong, Y. Kim, K. Cho, M. Kim,
 <a href="https://dl.acm.org/doi/10.1145/3697014">
 ZigZagFuzz: Interleaved Fuzzing of Program Options and Files</a>, 
-ACM Transactions on Software Engineering and Methodology, 
-accepted <a href="https://dl.acm.org/doi/10.1145/3697014"> [online published] </a> 
-(will be presented at Journal-first Track in ICSE 2025)
+ACM Transactions on Software Engineering and Methodology, Vol. 34, Issue 2, No. 39, 21 Jan 2025
+<a href="https://dl.acm.org/doi/10.1145/3697014">  </a> 
+(presented at Journal-first Track in ICSE 2025 [\[link\]](https://conf.researchr.org/details/icse-2025/icse-2025-journal-first-papers/80/ZigZagFuzz-Interleaved-Fuzzing-of-Program-Options-and-Files))
 <br/><br/>
 </li>
 </font>
