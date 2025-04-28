@@ -98,21 +98,21 @@ office: 211@S4-1
 ### Alumni ###
 
 <font size=2>
-<ol>
+<ul>
 <li>Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025.</li>
 <li>Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. Currently Software Engineer at SuresoftTech Inc.</li>
 <li>Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea</li>
 <li>Jeewoong Kim, Master’s Degree, HGU, Aug 2021. Currently Ph.D Student at CBNU</li>
 <li>Juyoung Jeon, Master’s Degree, HGU, Feb 2021. Currently Software Engineer at Hyundai MOBIS</li>
 <li>Hansol Choe, Master’s Degree, HGU, Feb 2021. Currently Research Engineer at SuresoftTech Inc.</li>
-</ol>
+</ul>
 </font>
 
 
 ### Undergraduate research interns ###
 
 <font size=2>
-<ol>
+<ul>
 <li>Soomin Choi, Jan 2025-present</li>
 <li>Narin Han, June 2024–Feb 2025</li>
 <li>Borim Na, Sep 2023–Dec 2023</li>
@@ -128,7 +128,7 @@ office: 211@S4-1
 <li>Jaehun Lee, Sep 2017-Jun 2018</li>
 <li>Hansol Choe, Sep 2017-Feb 2018</li>
 <li>Kyungsu Lee, Jul 2017-Dec 2017</li>
-</ol>
+</ul>
 
 </font>
 
