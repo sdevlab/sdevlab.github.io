@@ -74,7 +74,7 @@ office: 211@S4-1
 **Trần Lâm Huệ Quyên (Rose)** <br>
 
 <font size=2>
-Bacheol-Master Integrated Program between CBNU and Duy Tan University, Vietnam (joined in SDEV lab at Apr 2025) <br>
+Bachelor-Master Integrated Program between CBNU and Duy Tan University, Vietnam (joined in SDEV lab at Apr 2025) <br>
 Computer Science Department, Chungbuk National University <br/>
 tranlamhuequyen@chungbuk.ac.kr<br/>
 office: 211@S4-1
