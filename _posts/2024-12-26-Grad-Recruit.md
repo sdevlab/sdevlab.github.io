@@ -2,7 +2,7 @@
 layout: post
 title: 2025년 상반기 대학원생 모집(전기 2차 전형)
 date: 2024-12-26 00:00:00 +0900
-visible: 1 
+visible: 0 
 ---
 
 # SDEV 연구실 대학원생 모집
