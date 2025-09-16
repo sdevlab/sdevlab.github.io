@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-05-28T18:18:52+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 하반기)</title><link href="/2025/05/15/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 하반기)" /><published>2025-05-15T00:00:00+09:00</published><updated>2025-05-15T00:00:00+09:00</updated><id>/2025/05/15/Recruit</id><content type="html" xml:base="/2025/05/15/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-16T09:45:17+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">김준희, 한나린 교육부 이공분야 학술연구지원사업 선정</title><link href="/2025/09/01/Project.html" rel="alternate" type="text/html" title="김준희, 한나린 교육부 이공분야 학술연구지원사업 선정" /><published>2025-09-01T00:00:00+09:00</published><updated>2025-09-01T00:00:00+09:00</updated><id>/2025/09/01/Project</id><content type="html" xml:base="/2025/09/01/Project.html"><![CDATA[<h1 id="김준희-한나린-석사과정생연구장려금-지원사업-선정">김준희, 한나린 석사과정생연구장려금 지원사업 선정</h1>
+
+<p>김준희 학생과 한나린 학생이 각각 교육부 이공분야 학술연구지원사업(석사과정생연구장려금지원사업)에 
+각각 선정되었습니다.</p>
+
+<ul>
+  <li>C/C++ 라이브러리 마이그레이션을 위한 SWE 멀티 에이전트 운영 기술 연구 (김준희 학생)</li>
+  <li>LLM의 코드 의미 추론을 활용한 목적지향 Greybox Fuzzing 탐색 기술 연구 (한나린 학생)</li>
+</ul>
+
+<p>김준희 학생이 진행하는 프로젝트는 C/C++ 프로그램에 대해 정확, 신속, 유연하게
+라이브러리 마이그레이션을 자동으로 수행하는 기술을 개발하는 연구입니다.
+난이도가 높은 SW 유지보수 작업인 라이브러리 마이그레이션을 자동화함으로써
+SW 공급망 보안을 강화하는데 활용될 수 있는 기술을 세계 최초로 제시하는 것을 
+목표합니다.</p>
+
+<p>한나린 학생이 진행하는 프로젝트는 자동 테스팅 기법인 Greybox Fuzzing의 
+원거리 목표 지향 탐색 성능을 개선하기 위해 LLM을 효과적으로 활용하는 
+방법을 찾기 위한 연구입니다.
+LLM을 통해 다양한 상황 정보를 활용함으로써 전통적인 프로그램 분석의
+한계를 넘어선 새로운 Greybox Fuzzing 탐색 방식을 제시할 수 있을 것으로 기대합니다.</p>
+
+<p>김준희 학생과 한나린 학생은 각 과제의 연구책임자로서 2025년 9월부터 1년간 해당 연구에 대한 
+연구비를 지원 받게 됩니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[김준희, 한나린 석사과정생연구장려금 지원사업 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 하반기)</title><link href="/2025/05/15/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 하반기)" /><published>2025-05-15T00:00:00+09:00</published><updated>2025-05-15T00:00:00+09:00</updated><id>/2025/05/15/Recruit</id><content type="html" xml:base="/2025/05/15/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 5월 15일</p>
 
@@ -294,4 +317,4 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 <h3 id="연락방법">연락방법</h3>
 <p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">SDEV lab starts out in CBNU at Mar 2024 (formely, ARISE lab at HGU)</title><link href="/2024/02/01/start.html" rel="alternate" type="text/html" title="SDEV lab starts out in CBNU at Mar 2024 (formely, ARISE lab at HGU)" /><published>2024-02-01T00:00:00+09:00</published><updated>2024-02-01T00:00:00+09:00</updated><id>/2024/02/01/start</id><content type="html" xml:base="/2024/02/01/start.html"><![CDATA[<p>SDEV lab starts out in CBNU at Mar 2024 (formely, ARISE lab at HGU; https://sites.google.com/view/arise-handong)</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV lab starts out in CBNU at Mar 2024 (formely, ARISE lab at HGU; https://sites.google.com/view/arise-handong)]]></summary></entry></feed>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry></feed>
