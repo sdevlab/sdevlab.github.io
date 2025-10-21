@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-21T17:56:47+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="/2025/10/21/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-21T00:00:00+09:00</published><updated>2025-10-21T00:00:00+09:00</updated><id>/2025/10/21/Recruit</id><content type="html" xml:base="/2025/10/21/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-21T18:07:11+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="/2025/10/21/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-21T00:00:00+09:00</published><updated>2025-10-21T00:00:00+09:00</updated><id>/2025/10/21/Recruit</id><content type="html" xml:base="/2025/10/21/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 10월 21일</p>
 
@@ -53,11 +53,11 @@ SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 �
 SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2025년 SDEV 연구실에서 진행한 연구 프로젝트는 아래와 같습니다:</p>
 
 <ul>
-  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
+  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 과학기술정보통신부</li>
   <li>원전 디지털시스템 엔지니어링 프로세스 표준내 사이어보안 분석, 2025, 한국원자력통제기술원</li>
-  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
-  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
-  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
+  <li>C/C++ 라이브러리 마이그레이션을 위한 SWE 멀티 에이전트 운영 기술 연구 (김준희 학생), 석사연구지원사업, 2025-2026, 교육부</li>
+  <li>LLM의 코드 의미 추론을 활용한 목적지향 Greybox Fuzzing 탐색 기술 연구 (한나린 학생), 석사연구지원사업, 2025-2026, 교육부</li>
+  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구 (김기은 학생), 석사연구지원사업, 2024-2025, 교육부</li>
 </ul>
 
 <p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
