@@ -16,6 +16,8 @@ office: 316@S4-1
 </font>
 <br/> <br/>
 
+<!--
+
 <img src="/public/img/jeewoong.jpg" width="150"/>
 
 **Jeewoong Kim 김지웅** <br>
@@ -28,13 +30,14 @@ jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim
 office: 211@S4-1
 </font>
 <br/> <br/>
+-->
 
 <img src="/public/img/kieun.jpg" width=150 />
 
 **Kieun Kim 김기은** <br>
 
 <font size=2>
-Master's student (started in Mar 2023, joined CBNU at Mar 2024) <br>
+Master's student (defended in Dec 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kieun@cbnu.ac.kr <br/>
@@ -82,10 +85,12 @@ office: 211@S4-1
 <br/><br/>
 
 
+
 ### Alumni ###
 
 <font size=2>
 <ul>
+<li>Jeewoong Kim, Ph.D ABD, CBNU, Feb 2026. </li>
 <li>Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025.</li>
 <li>Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. Currently Software Engineer at SuresoftTech Inc.</li>
 <li>Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea</li>
@@ -100,7 +105,9 @@ office: 211@S4-1
 
 <font size=2>
 <ul>
-<li>Soomin Choi, Jan 2025-present</li>
+<li>Yuntae Kim, Sep 2025-present </li>
+<li>Sangin Han, Jul 2025-present </li>
+<li>Soomin Choi, Jan 2025-Jun 2025</li>
 <li>Narin Han, June 2024–Feb 2025</li>
 <li>Borim Na, Sep 2023–Dec 2023</li>
 <li>Haerim Jun, Sep 2023–Dec 2023</li>
