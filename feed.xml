@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-10-21T18:07:11+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="/2025/10/21/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-21T00:00:00+09:00</published><updated>2025-10-21T00:00:00+09:00</updated><id>/2025/10/21/Recruit</id><content type="html" xml:base="/2025/10/21/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-12-31T22:20:20+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/31/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-31T00:00:00+09:00</published><updated>2025-12-31T00:00:00+09:00</updated><id>/2025/12/31/Recruit</id><content type="html" xml:base="/2025/12/31/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+
+<p>2025년 12월 31일</p>
+
+<p><strong>충북대학교 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.</strong></p>
+
+<ul>
+  <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
+  <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
+  <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
+    <ul>
+      <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
+    </ul>
+  </li>
+  <li><strong>2026년 전기 대학원생 모집 안내 <a href="https://www.notion.so/sdevlab/recruit">[링크]</a></strong></li>
+  <li><strong>2025년 대학원 설명회 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong></li>
+</ul>
+
+<h3 id="연구분야-및-연구실-소개">연구분야 및 연구실 소개</h3>
+
+<p>SDEV 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe &amp; Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가, 
+라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 연구를 수행하고 있으며, 특별히 소프트웨어 엔지니어링 분야 중 다음의 주제를 중심으로 연구하고 있습니다:</p>
+
+<ul>
+  <li>소프트웨어 테스팅(Software Engineering)</li>
+  <li>프로그램 분석(Program Analysis)</li>
+  <li>컴퓨팅 논리학(Computational Logic)</li>
+  <li>시스템 소프트웨어(System Software)</li>
+  <li>최적화 기반 탐색 (Stochastic Optimization)</li>
+</ul>
+
+<p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
+SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a></p>
+
+<p>SDEV 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과정)에 진학하는 학생은 기술중심 소프트웨어 공학 방법론을 능동적이고 비판적으로 활용하여 
+사회에서 SW공학적 지식과 가치를 창출하는 책임을 다 할 수 있는 연구자로 성장할 수 있도록 지도합니다. 
+대학원 신입생의 경우, 지금까지 학부 교육 내용을 바탕으로 우리 연구실의 연구에 참여하는데 필요한 기반 기술과 지식을 습득할 수 있도록
+훈련하고, 이를 바탕으로 소프트웨어 공학분야에서 실제적이면서 도전할 만한 
+연구문제를 찾아 2년간 혹은 4년간 집중력 있게 문제해결형 연구를 수행하게 됩니다.</p>
+
+<p>SDEV 연구실(이전 ARISE 연구실@HGU)의 졸업생은 현재 소프트웨어 엔지니어링 분야의 연구원 및 개발자로 활동하고 있습니다:</p>
+<ul>
+  <li>박수현: 현재 SuresoftTech Inc (2023년 KSC 우수논문상)</li>
+  <li>김지웅: 현재 충북대학교 박사과정 (2023년 한동대 BK21 우수연구상)</li>
+  <li>유한영: 현재 SAP Labs Korea (2022년 한동대 석사졸업논문상)</li>
+  <li>전주영: 현재 Hyundai MOBIS (2021년 한동대 석사졸업논문상, 2019년 소프트웨어공학소사이티 우수논문상 등)</li>
+  <li>최한솔: 현재 SuresoftTech Inc. (2021년 한동대 석사졸업논문상, 2020년 KCSE 우수논문상 등)</li>
+</ul>
+
+<h3 id="참여-가능한-프로젝트와-학업지원">참여 가능한 프로젝트와 학업지원</h3>
+
+<p>대학원에 진학하는 학생은 지도교수가 연구책임자로 진행 중인 국책 연구 과제, 공동 연구 과제, 우수 기업체 산학 프로젝트에 참여하여 논문작성, 국내외 공동연구, 
+SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2025년 SDEV 연구실에서 진행한 연구 프로젝트는 아래와 같습니다:</p>
+
+<ul>
+  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
+  <li>C/C++ 라이브러리 마이그레이션을 위한 SWE 멀티 에이전트 운영 기술 연구, 석사과정생연구장려금지원사업, 2025-2026, 교육부</li>
+  <li>LLM의 코드 의미 추론을 활용한 목적지향 Greybox Fuzzing 탐색 기술 연구, 석사과정생연구장려금지원사업, 2025-2026, 교육부</li>
+</ul>
+
+<p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
+우리 연구실은 각종 프로젝트를 통해 대학원생이 연구과 학업에 온전히 집중할 수 있는 학업 환경을 갖추는 것을 제일 목표로 지원하고 있습니다.
+또한 연구실을 거치는 동안 우리 사회의 소프트웨어 공학분야의 연구자로서 발전할 수 있도록 성장에 필요한 유형적, 무형적 자원을 적극 지원해오고 있습니다.</p>
+
+<h3 id="연락방법">연락방법</h3>
+<p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
+
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">2025 정보과학회 소프트웨어소사이어티 우수논문상</title><link href="/2025/12/18/Award.html" rel="alternate" type="text/html" title="2025 정보과학회 소프트웨어소사이어티 우수논문상" /><published>2025-12-18T00:00:00+09:00</published><updated>2025-12-18T00:00:00+09:00</updated><id>/2025/12/18/Award</id><content type="html" xml:base="/2025/12/18/Award.html"><![CDATA[<h1 id="2025-정보과학회-소프트웨어소사이어티-우수논문상-수상">2025 정보과학회 소프트웨어소사이어티 우수논문상 수상</h1>
+
+<p>2025년 12월 18일</p>
+
+<p>우리 연구실에서 2024년 정보과학회논문지에 발표한 “MISRA C 코딩 가이드라인 준수를 위한 코드 변경은 어떻게 이루어지는가: 오픈소스 소프트웨어 프로젝트를 대상으로 한 실태 조사” 논문이 2025년 정보과학회 소프트웨어소사이어티 우수논문상을 수상하였습니다.</p>
+
+<p>2025년 12월 18일 KSC 2025 뱅큇에서 진행된 시상식에 저자인 박수현 졸업생이 참가하여 수상하였습니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[2025 정보과학회 소프트웨어소사이어티 우수논문상 수상]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="/2025/10/21/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-21T00:00:00+09:00</published><updated>2025-10-21T00:00:00+09:00</updated><id>/2025/10/21/Recruit</id><content type="html" xml:base="/2025/10/21/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 10월 21일</p>
 
@@ -53,11 +126,11 @@ SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 �
 SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2025년 SDEV 연구실에서 진행한 연구 프로젝트는 아래와 같습니다:</p>
 
 <ul>
-  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 과학기술정보통신부</li>
+  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
   <li>원전 디지털시스템 엔지니어링 프로세스 표준내 사이어보안 분석, 2025, 한국원자력통제기술원</li>
-  <li>C/C++ 라이브러리 마이그레이션을 위한 SWE 멀티 에이전트 운영 기술 연구 (김준희 학생), 석사연구지원사업, 2025-2026, 교육부</li>
-  <li>LLM의 코드 의미 추론을 활용한 목적지향 Greybox Fuzzing 탐색 기술 연구 (한나린 학생), 석사연구지원사업, 2025-2026, 교육부</li>
-  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구 (김기은 학생), 석사연구지원사업, 2024-2025, 교육부</li>
+  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
+  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
+  <li>효과적인 디버깅 지원을 위한 퍼즈 테스트 복제 기법 연구, 석사연구지원사업, 2024-2025, 한국연구재단</li>
 </ul>
 
 <p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
@@ -318,8 +391,4 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 
 <p>우리 연구실 김기은 학생이 교육부와 한국연구재단이 지원하는 2024 하반기 이공계 석사과정 연구장려금 지원 사업의 연구책임자로 선정되었습니다.</p>
 
-<p>연구비 지원이 선정된 프로젝트는 “효과적인 디버깅 지원을 퍼즈 테스트 복제 기법 연구”로, 김기은 학생은 이 프로젝트를 통해 greybox fuzzing을 통해 발견한 오류를 신속히 디버깅 할 수 있도록 지원하는 방법을 목표로 한 연구를 수행할 계획입니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[김기은 석사과정, 석사연구장려금지원사업 선정 우리 연구실 김기은 학생이 교육부와 한국연구재단이 지원하는 2024 하반기 이공계 석사과정 연구장려금 지원 사업의 연구책임자로 선정되었습니다.]]></summary></entry><entry><title type="html">Website Renewed</title><link href="/2024/08/13/Website-Renewed.html" rel="alternate" type="text/html" title="Website Renewed" /><published>2024-08-13T00:30:00+09:00</published><updated>2024-08-13T00:30:00+09:00</updated><id>/2024/08/13/Website-Renewed</id><content type="html" xml:base="/2024/08/13/Website-Renewed.html"><![CDATA[<h1 id="website-renewed">Website Renewed</h1>
-
-<p>SDEV Lab website is renewed with a new Jekyll theme.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Website Renewed]]></summary></entry><entry><title type="html">Lab space relocated to Room 211 in S4-1</title><link href="/2024/07/04/Relocated.html" rel="alternate" type="text/html" title="Lab space relocated to Room 211 in S4-1" /><published>2024-07-04T00:00:00+09:00</published><updated>2024-07-04T00:00:00+09:00</updated><id>/2024/07/04/Relocated</id><content type="html" xml:base="/2024/07/04/Relocated.html"><![CDATA[<h1 id="labspace-relocated-to-rm-211">Labspace relocated to Rm. 211</h1>
-
-<p>The workspace of the SDEV lab is now placed at Room 211 on the second floor of the S4-1 Building.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Labspace relocated to Rm. 211]]></summary></entry></feed>
+<p>연구비 지원이 선정된 프로젝트는 “효과적인 디버깅 지원을 퍼즈 테스트 복제 기법 연구”로, 김기은 학생은 이 프로젝트를 통해 greybox fuzzing을 통해 발견한 오류를 신속히 디버깅 할 수 있도록 지원하는 방법을 목표로 한 연구를 수행할 계획입니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[김기은 석사과정, 석사연구장려금지원사업 선정 우리 연구실 김기은 학생이 교육부와 한국연구재단이 지원하는 2024 하반기 이공계 석사과정 연구장려금 지원 사업의 연구책임자로 선정되었습니다.]]></summary></entry></feed>
