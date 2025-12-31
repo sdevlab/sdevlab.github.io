@@ -77,9 +77,10 @@ office: 211@S4-1
 **Byul Yoon 윤별** <br>
 
 <font size=2>
-Undergraduate students (joined as a lab member in Mar 2025) <br>
+Master's student (started in Sep 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
+yoonbyul@chungbuk.ac.kr<br/>
 office: 211@S4-1
 </font>
 <br/><br/>
