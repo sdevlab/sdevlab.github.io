@@ -14,7 +14,7 @@ Ph.D in Computer Science, KAIST <br/>
 <a href="mailto:hongshin@gmail.com">hongshin@gmail.com</a>, 
 <a href="mailto:hongshin@chungbuk.ac.kr">hongshin@chungbuk.ac.kr</a> <br/>
 <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
- -office: 316 in S4-1
+316@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/> <br/>
 
@@ -27,7 +27,7 @@ Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 <a href="mailto:narinhan@cbnu.ac.kr">narinhan@cbnu.ac.kr</a><br/>
- -office: 211 in S4-1
+211@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/><br/>
 
@@ -39,8 +39,8 @@ Chungbuk National University <br/>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-kimjoonheui@cbnu.ac.kr <br/>
- -office: 211 in S4-1
+<a href="mailto:kimjoonheui@cbnu.ac.kr">kimjoonheui@cbnu.ac.kr</a><br/>
+211@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/><br/>
 
@@ -53,12 +53,12 @@ kimjoonheui@cbnu.ac.kr <br/>
 Master's student (started in Sep 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-yoonbyul@chungbuk.ac.kr<br/>
- -office: 211 in S4-1
+<a href="mailto:yoonbyul@chungbuk.ac.kr">yoonbyul@chungbuk.ac.kr</a><br/>
+211@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/><br/>
 
-<img src="/public/img/ytkim.jpg" width=150 />
+<img src="/public/img/yt.jpg" width=150 />
 
 **Yuntae Kim 김윤태** <br>
 
@@ -66,9 +66,7 @@ yoonbyul@chungbuk.ac.kr<br/>
 Master's student (started in Mar 2026) <br/>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-
-- office: 211 in S4-1
-
+211@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/><br/>
 
