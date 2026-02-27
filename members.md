@@ -8,66 +8,39 @@ permalink: /members/
 
 **Shin Hong  홍신** <br>
 
-<font size=2>
-Associate Professor, School of Computer Science, CBNU <br>
-Ph.D in Computer Science, KAIST <br>
-hongshin@gmail.com, hongshin@chungbuk.ac.kr,  <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
-office: 316@S4-1
+<font size=3>
+Associate Professor, School of Computer Science, CBNU <br/>
+Ph.D in Computer Science, KAIST <br/>
+<a href="mailto:hongshin@gmail.com">hongshin@gmail.com</a>, 
+<a href="mailto:hongshin@chungbuk.ac.kr">hongshin@chungbuk.ac.kr</a> <br/>
+<a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
+ -office: 316 in S4-1
 </font>
 <br/> <br/>
 
-<!--
-
-<img src="/public/img/jeewoong.jpg" width="150"/>
-
-**Jeewoong Kim 김지웅** <br>
-
-<font size=2>
-Ph.D student (started in Mar 2022 at HGU; joined CBNU in Mar 2024) <br>
-Computer Science Department, <br>
-Chungbuk National University <br>
-jeewoong@cbnu.ac.kr, <a href="https://jeewoongkim.github.io">https://jeewoongkim.github.io</a><br/>
-office: 211@S4-1
-</font>
-<br/> <br/>
--->
-
-<img src="/public/img/kieun.jpg" width=150 />
-
-**Kieun Kim 김기은** <br>
-
-<font size=2>
-Master's student (defended in Dec 2025) <br>
-Computer Science Department, <br/>
-Chungbuk National University <br/>
-kieun@cbnu.ac.kr <br/>
-office: 211@S4-1
-</font>
-<br/> <br/>
-
-<img src="/public/img/narin.jpg" width=150 />
+<img src="/public/img/nr.jpg" width=150 />
 
 **Narin Han 한나린** <br>
 
-<font size=2>
+<font size=3>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
-narinhan@cbnu.ac.kr <br/>
-office: 211@S4-1
+<a href="mailto:narinhan@cbnu.ac.kr">narinhan@cbnu.ac.kr</a><br/>
+ -office: 211 in S4-1
 </font>
 <br/><br/>
 
-<img src="/public/img/junhee.jpg" width=150 />
+<img src="/public/img/jh.jpg" width=150 />
 
 **Joonheui Kim 김준희** <br>
 
-<font size=2>
+<font size=3>
 Master's student (started in Mar 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 kimjoonheui@cbnu.ac.kr <br/>
-office: 211@S4-1
+ -office: 211 in S4-1
 </font>
 <br/><br/>
 
@@ -76,12 +49,26 @@ office: 211@S4-1
 
 **Byul Yoon 윤별** <br>
 
-<font size=2>
+<font size=3>
 Master's student (started in Sep 2025) <br>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
 yoonbyul@chungbuk.ac.kr<br/>
-office: 211@S4-1
+ -office: 211 in S4-1
+</font>
+<br/><br/>
+
+<img src="/public/img/ytkim.jpg" width=150 />
+
+**Yuntae Kim 김윤태** <br>
+
+<font size=3>
+Master's student (started in Mar 2026) <br/>
+Computer Science Department, <br/>
+Chungbuk National University <br/>
+
+- office: 211 in S4-1
+
 </font>
 <br/><br/>
 
@@ -91,11 +78,12 @@ office: 211@S4-1
 
 <font size=2>
 <ul>
+<li>Kieun Kim, Master's Degree, CBNU, Feb 2026</li>
 <li>Jeewoong Kim, Ph.D ABD, CBNU, Feb 2026. </li>
 <li>Sungbin Lim, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025.</li>
 <li>Suhyun Park, Master's Degree, HGU (co-advised with Prof. Jaechang Nam), Feb 2025. Currently Software Engineer at SuresoftTech Inc.</li>
 <li>Hanyoung Yoo, Master’s Degree, HGU, Feb 2022. Currently Software Engineer at SAP Labs Korea</li>
-<li>Jeewoong Kim, Master’s Degree, HGU, Aug 2021. Currently Ph.D Student at CBNU</li>
+<li>Jeewoong Kim, Master’s Degree, HGU, Aug 2021. </li>
 <li>Juyoung Jeon, Master’s Degree, HGU, Feb 2021. Currently Software Engineer at Hyundai MOBIS</li>
 <li>Hansol Choe, Master’s Degree, HGU, Feb 2021. Currently Research Engineer at SuresoftTech Inc.</li>
 </ul>
@@ -106,8 +94,8 @@ office: 211@S4-1
 
 <font size=2>
 <ul>
-<li>Yuntae Kim, Sep 2025-present </li>
-<li>Sangin Han, Jul 2025-present </li>
+<li>Sangin Park, Jul 2025-present </li>
+<li>Yuntae Kim, Sep 2025-Feb 2026 </li>
 <li>Soomin Choi, Jan 2025-Jun 2025</li>
 <li>Narin Han, June 2024–Feb 2025</li>
 <li>Borim Na, Sep 2023–Dec 2023</li>
