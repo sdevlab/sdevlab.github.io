@@ -66,6 +66,7 @@ Chungbuk National University <br/>
 Master's student (started in Mar 2026) <br/>
 Computer Science Department, <br/>
 Chungbuk National University <br/>
+<a href="mailto:yuntaekim@chungbuk.ac.kr">yuntaekim@chungbuk.ac.kr</a>
 211@S4-1, 1 Chungdae-ro, Cheongju
 </font>
 <br/><br/>
@@ -74,7 +75,7 @@ Chungbuk National University <br/>
 
 ### Alumni ###
 
-<font size=2>
+<font size=3>
 <ul>
 <li>Kieun Kim, Master's Degree, CBNU, Feb 2026</li>
 <li>Jeewoong Kim, Ph.D ABD, CBNU, Feb 2026. </li>
@@ -90,7 +91,7 @@ Chungbuk National University <br/>
 
 ### Undergraduate research interns ###
 
-<font size=2>
+<font size=3>
 <ul>
 <li>Sangin Park, Jul 2025-present </li>
 <li>Yuntae Kim, Sep 2025-Feb 2026 </li>
