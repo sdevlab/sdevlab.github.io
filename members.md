@@ -11,10 +11,10 @@ permalink: /members/
 <font size=3>
 Associate Professor, School of Computer Science, CBNU <br/>
 Ph.D in Computer Science, KAIST <br/>
-<a href="mailto:hongshin@gmail.com">hongshin@gmail.com</a>, 
-<a href="mailto:hongshin@chungbuk.ac.kr">hongshin@chungbuk.ac.kr</a> <br/>
+<a href="mailto:hongshin@chungbuk.ac.kr">hongshin@chungbuk.ac.kr</a>
+<a href="mailto:hongshin@gmail.com">hongshin@gmail.com</a><br/>
 <a href="http://hongshin.github.io">https://hongshin.github.io</a> <br/>
-316@S4-1, 1 Chungdae-ro, Cheongju
+Room 316 in S4-1<br/>
 </font>
 <br/> <br/>
 
@@ -24,10 +24,9 @@ Ph.D in Computer Science, KAIST <br/>
 
 <font size=3>
 Master's student (started in Mar 2025) <br>
-Computer Science Department, <br/>
-Chungbuk National University <br/>
+Computer Science Department, CBNU<br/>
 <a href="mailto:narinhan@cbnu.ac.kr">narinhan@cbnu.ac.kr</a><br/>
-211@S4-1, 1 Chungdae-ro, Cheongju
+Room 302 in S4-1
 </font>
 <br/><br/>
 
@@ -37,10 +36,9 @@ Chungbuk National University <br/>
 
 <font size=3>
 Master's student (started in Mar 2025) <br>
-Computer Science Department, <br/>
-Chungbuk National University <br/>
+Computer Science Department, CBNU<br/>
 <a href="mailto:kimjoonheui@cbnu.ac.kr">kimjoonheui@cbnu.ac.kr</a><br/>
-211@S4-1, 1 Chungdae-ro, Cheongju
+Room 302 in S4-1
 </font>
 <br/><br/>
 
@@ -51,10 +49,9 @@ Chungbuk National University <br/>
 
 <font size=3>
 Master's student (started in Sep 2025) <br>
-Computer Science Department, <br/>
-Chungbuk National University <br/>
+Computer Science Department, CBNU<br/>
 <a href="mailto:yoonbyul@chungbuk.ac.kr">yoonbyul@chungbuk.ac.kr</a><br/>
-211@S4-1, 1 Chungdae-ro, Cheongju
+Room 302 in S4-1
 </font>
 <br/><br/>
 
@@ -64,10 +61,9 @@ Chungbuk National University <br/>
 
 <font size=3>
 Master's student (started in Mar 2026) <br/>
-Computer Science Department, <br/>
-Chungbuk National University <br/>
-<a href="mailto:yuntaekim@chungbuk.ac.kr">yuntaekim@chungbuk.ac.kr</a>
-211@S4-1, 1 Chungdae-ro, Cheongju
+Computer Science Department, CBNU<br/>
+<a href="mailto:yuntaekim@chungbuk.ac.kr">yuntaekim@chungbuk.ac.kr</a><br/>
+Room 302 in S4-1
 </font>
 <br/><br/>
 
