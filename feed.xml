@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-13T01:29:28+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">AI 보안 내재화를 위한 AI Redteaming 기술 연구과제 선정</title><link href="/2026/04/01/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화를 위한 AI Redteaming 기술 연구과제 선정" /><published>2026-04-01T00:00:00+09:00</published><updated>2026-04-01T00:00:00+09:00</updated><id>/2026/04/01/Project</id><content type="html" xml:base="/2026/04/01/Project.html"><![CDATA[<h1 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-13T01:38:22+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">AI 보안 내재화핵심기술 연구과제 선정</title><link href="/2026/04/01/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화핵심기술 연구과제 선정" /><published>2026-04-01T00:00:00+09:00</published><updated>2026-04-01T00:00:00+09:00</updated><id>/2026/04/01/Project</id><content type="html" xml:base="/2026/04/01/Project.html"><![CDATA[<p><br /></p>
+
+<h3 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h3>
 
 <p>우리 연구실이 슈어소프트테크, KETI, 올리브웍스, 연세대와 함께 제안한 AI 보안 내재화 핵심기술 연구개발 과제가 선정되어 과학기술정보통신부의 지원을 받게 되었습니다.</p>
 
@@ -18,7 +20,7 @@ AI Redteaming이란 AI 서비스의 보안취약점을 자동으로 탐지하는
 Multi-agent System과 같은 복잡한 AI 서비스에 대해 효과적으로 동작하는 
 AI Redteaming 기술 연구를 수행할 계획입니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[AI 보안 내재화 핵심기술 연구개발 과제 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/31/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-31T00:00:00+09:00</published><updated>2025-12-31T00:00:00+09:00</updated><id>/2025/12/31/Recruit</id><content type="html" xml:base="/2025/12/31/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/31/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-31T00:00:00+09:00</published><updated>2025-12-31T00:00:00+09:00</updated><id>/2025/12/31/Recruit</id><content type="html" xml:base="/2025/12/31/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 12월 31일</p>
 
