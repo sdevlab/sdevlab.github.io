@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-13T01:44:23+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">AI 보안 내재화핵심기술 연구과제 선정</title><link href="/2026/04/01/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화핵심기술 연구과제 선정" /><published>2026-04-01T00:00:00+09:00</published><updated>2026-04-01T00:00:00+09:00</updated><id>/2026/04/01/Project</id><content type="html" xml:base="/2026/04/01/Project.html"><![CDATA[<p><br /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-06-13T01:52:40+09:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">AI 보안 내재화핵심기술 연구과제 선정</title><link href="/2026/04/01/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화핵심기술 연구과제 선정" /><published>2026-04-01T00:00:00+09:00</published><updated>2026-04-01T00:00:00+09:00</updated><id>/2026/04/01/Project</id><content type="html" xml:base="/2026/04/01/Project.html"><![CDATA[<h2 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h2>
 
-<h3 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h3>
+<p><br /></p>
 
 <p>우리 연구실이 슈어소프트테크, KETI, 올리브웍스, 연세대와 함께 제안한 AI 보안 내재화 핵심기술 연구개발 과제가 선정되어 과학기술정보통신부의 지원을 받게 되었습니다.</p>
 
@@ -12,15 +12,15 @@
   <li>공동연구개발기관: (주)올리브웍스, 한국전자기술연구원(KETI), 연세대, 충북대</li>
 </ul>
 
-<p>본 과제는 AI 보안을 위해 AI 모델 학습부터 서비스 배포까지 SW개발 전주기에 필요한
-개발 보안 신기술 개발을 목표로 연구 개발을 수행합니다. 과제의 여려 주제 중, 
-우리 연구실은 AI Redteaming 기술 개발을 목표로 연구를 수행하게 되었습니다. 
-AI Redteaming이란 AI 서비스의 보안취약점을 자동으로 탐지하는 새로운 방식의 
-테스트 생성 기술입니다. 우리 연구실에서는 SW 테스팅 기술의 원리를 활용하여 
-Multi-agent System과 같은 복잡한 AI 서비스에 대해 효과적으로 동작하는 
+<p>본 과제의 목표는 AI SW보안을 위해 AI 모델 학습부터 서비스 배포까지 개발 전주기에 필요한
+개발보안 신기술 개발입니다.
+우리 연구실은 과제의 세부 연구주제인 AI Redteaming 신기술 개발을 위한 연구를 맡아 수행하게 되었습니다. 
+AI Redteaming이란 AI 서비스의 보안취약점을 탐지하기 위한 테스트 입력을 생성하는 기술을 뜻합니다. 
+우리 연구실은 SW 테스팅 기술의 원리를 활용하여 
+Multi-agent system과 같은 복잡한 AI 서비스에 대해 효과적으로 동작하는 
 AI Redteaming 기술 연구를 수행할 계획입니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/31/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-31T00:00:00+09:00</published><updated>2025-12-31T00:00:00+09:00</updated><id>/2025/12/31/Recruit</id><content type="html" xml:base="/2025/12/31/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[AI 보안 내재화 핵심기술 연구개발 과제 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/31/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-31T00:00:00+09:00</published><updated>2025-12-31T00:00:00+09:00</updated><id>/2025/12/31/Recruit</id><content type="html" xml:base="/2025/12/31/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 12월 31일</p>
 
@@ -258,155 +258,4 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 
 <p>2025-1학기 미례설계-창업 교과목 전공탐색 연구분야 소개를 위한 SDEV 연구실 소개입니다.</p>
 
-<p><strong><a href="https://sdevlab.notion.site/sdevlab-intro">[링크]</a></strong></p>]]></content><author><name></name></author><summary type="html"><![CDATA[학부생 전공탐색을 위한 SDEV 연구실 소개]]></summary></entry><entry><title type="html">2025년 상반기 대학원생 모집(전기 2차 전형)</title><link href="/2024/12/26/Grad-Recruit.html" rel="alternate" type="text/html" title="2025년 상반기 대학원생 모집(전기 2차 전형)" /><published>2024-12-26T00:00:00+09:00</published><updated>2024-12-26T00:00:00+09:00</updated><id>/2024/12/26/Grad-Recruit</id><content type="html" xml:base="/2024/12/26/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
-
-<p>2024년 12월 26일
-<br /><br /></p>
-
-<p>2025년 대학원 전기 추가 모집을 통해 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다(2025년 전기 대학원 추가 모집은 1월 중순 예정).
-대학원 진학에 관심이 있으시다면 <strong>2025년 1월 6일까지 이메일(hongshin@gmail.com)로 연락</strong>하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
-
-<ul>
-  <li><strong>연구실 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong>
-    <ul>
-      <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
-      <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
-      <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
-        <ul>
-          <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="연구분야-및-연구실-소개">연구분야 및 연구실 소개</h3>
-
-<p>SDEV 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe &amp; Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가, 
-라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 연구를 수행하고 있으며, 특별히 소프트웨어 엔지니어링 분야 중 다음의 주제를 중심으로 연구하고 있습니다:</p>
-
-<ul>
-  <li>소프트웨어 테스팅(Software Testing)</li>
-  <li>프로그램 분석(Program Analysis)</li>
-  <li>시스템 소프트웨어(System Software) 검증 및 분석</li>
-</ul>
-
-<p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
-SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a>
-<br /><br /></p>
-
-<p>SDEV 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과정)에 진학하는 학생은 기술중심 소프트웨어 공학 방법론을 능동적이고 비판적으로 활용하여 
-사회에서 SW공학적 지식과 가치를 창출하는 책임을 다 할 수 있는 연구자로 성장할 수 있도록 지도합니다. 
-대학원 신입생의 경우, 지금까지 학부 교육 내용을 바탕으로 우리 연구실의 연구에 참여하는데 필요한 기반 기술과 지식을 습득할 수 있도록
-훈련하고, 이를 바탕으로 소프트웨어 공학분야에서 실제적이면서 도전할 만한 
-연구문제를 찾아 2년간 혹은 4년간 집중력 있게 문제해결형 연구를 수행하게 됩니다.</p>
-
-<p>SDEV 연구실(이전 한동대학교 ARISE 연구실)의 졸업생은 현재 소프트웨어 엔지니어링 분야의 연구원 및 개발자로 활동하고 있습니다:</p>
-<ul>
-  <li>박수현: 현재 SuresoftTech In.c (2025년 2월 한동대 석사졸업 예정)</li>
-  <li>김지웅: 현재 충북대학교 박사과정 (2023년 한동대 BK21 우수연구상)</li>
-  <li>유한영: 현재 SAP Labs Korea (2022년 한동대 석사졸업논문상)</li>
-  <li>전주영: 현재 Hyundai MOBIS (2021년 한동대 석사졸업논문상, 2019년 소프트웨어공학소사이티 우수논문상 등)</li>
-  <li>최한솔: 현재 SuresoftTech Inc. (2021년 한동대 석사졸업논문상, 2020년 KCSE 우수논문상 등)</li>
-</ul>
-
-<h3 id="참여-가능한-프로젝트와-학업지원">참여 가능한 프로젝트와 학업지원</h3>
-
-<p>대학원에 진학하는 학생은 지도교수가 연구책임자로 진행 중인 국책 연구 과제, 공동 연구 과제, 우수 기업체 산학 프로젝트에 참여하여 논문작성, 국내외 공동연구, 
-SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2025년 현재 SDEV 연구실에서 진행 중인 연구 프로젝트는 아래와 같습니다:</p>
-<ul>
-  <li>오류 재현을 위한 SW테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 한국연구재단</li>
-  <li>효과적인 디버깅 지원을 퍼즈 테스트 복제 기법 연구(김기은 석사과정), 이공계 석사과정 연구장려금 지원사업, 2024-2025, 한국연구재단</li>
-</ul>
-
-<p>우리 연구실은 대학원생이 학위연구와 직접 관련된 기초연구과제 혹은 산업체R&amp;D 프로젝트에 참여하며 학생연구비를 지원 받을 수 있도록 지원합니다. 프로젝트 참여는 연구과 학업에 온전히 집중할 수 있는 환경을 만드는 것을 목표로 하며, 연구와 연관이 없는 과제 참여를 지양합니다.
-또한, 대학원 과정을 통해 우리 사회의 소프트웨어 공학 분야의 연구자로서 성장하는데 필요한 여러 경험과 경력을 쌓을 수 있도록 다양한 방편으로 적극 지원하고 있습니다.</p>
-
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 상반기)</title><link href="/2024/10/08/Grad-Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 상반기)" /><published>2024-10-08T00:00:00+09:00</published><updated>2024-10-08T00:00:00+09:00</updated><id>/2024/10/08/Grad-Recruit</id><content type="html" xml:base="/2024/10/08/Grad-Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
-
-<p>2024년 10월 8일</p>
-
-<p><strong>충북대학교 SDEV 연구실(소프트웨어 개발검증 연구실)에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.</strong></p>
-
-<ul>
-  <li>
-    <p><strong>2024-10-08 대학원 설명회 소개 자료 <a href="https://sdevlab.notion.site/SW-SDEV-lab-2025-1184543d19af80b3b926d7290e9c60dc?pvs=4">[링크]</a></strong></p>
-  </li>
-  <li>연구실 홈페이지 <a href="http://sdevlab.github.io">[link]</a></li>
-  <li>연구실 YouTube <a href="http://youtube.com/@hongshin">[link]</a></li>
-  <li>연구실 발표논문 <a href="https://hongshin.github.io/publications/">[link]</a>
-    <ul>
-      <li>우리말 논문모음 <a href="https://drive.google.com/drive/folders/1U9kLfIvlFaR_8bv-N2WCj2FEBaAmoPhn?usp=sharing">[link]</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="연구분야-및-연구실-소개">연구분야 및 연구실 소개</h3>
-
-<p>SDEV 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe &amp; Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가, 
-라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 연구를 수행하고 있으며, 특별히 소프트웨어 엔지니어링 분야 중 다음의 주제를 중심으로 연구하고 있습니다:</p>
-
-<ul>
-  <li>소프트웨어 테스팅(Software Engineering)</li>
-  <li>프로그램 분석(Program Analysis)</li>
-  <li>컴퓨팅 논리학(Computational Logic)</li>
-  <li>시스템 소프트웨어(System Software)</li>
-  <li>최적화 기반 탐색 (Stochastic Optimization)</li>
-</ul>
-
-<p>SDEV 연구실에서는 컴퓨팅과학 핵심기술을 활용하여 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부할 수 있습니다. 
-SDEV 연구실의 연구 주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: <a href="http://hongshin.github.io/publications">http://hongshin.github.io/publications</a></p>
-
-<p>SDEV 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과정)에 진학하는 학생은 기술중심 소프트웨어 공학 방법론을 능동적이고 비판적으로 활용하여 
-사회에서 SW공학적 지식과 가치를 창출하는 책임을 다 할 수 있는 연구자로 성장할 수 있도록 지도합니다. 
-대학원 신입생의 경우, 지금까지 학부 교육 내용을 바탕으로 우리 연구실의 연구에 참여하는데 필요한 기반 기술과 지식을 습득할 수 있도록
-훈련하고, 이를 바탕으로 소프트웨어 공학분야에서 실제적이면서 도전할 만한 
-연구문제를 찾아 2년간 혹은 4년간 집중력 있게 문제해결형 연구를 수행하게 됩니다.</p>
-
-<p>SDEV 연구실(이전 ARISE 연구실@HGU)의 졸업생은 현재 소프트웨어 엔지니어링 분야의 연구원 및 개발자로 활동하고 있습니다:</p>
-<ul>
-  <li>김지웅: 현재 충북대학교 박사과정 (2023년 한동대 BK21 우수연구상)</li>
-  <li>유한영: 현재 SAP Labs Korea (2022년 한동대 석사졸업논문상)</li>
-  <li>전주영: 현재 Hyundai MOBIS (2021년 한동대 석사졸업논문상, 2019년 소프트웨어공학소사이티 우수논문상 등)</li>
-  <li>최한솔: 현재 SuresoftTech Inc. (2021년 한동대 석사졸업논문상, 2020년 KCSE 우수논문상 등)</li>
-</ul>
-
-<h3 id="참여-가능한-프로젝트와-학업지원">참여 가능한 프로젝트와 학업지원</h3>
-
-<p>대학원에 진학하는 학생은 지도교수가 연구책임자로 진행 중인 국책 연구 과제, 공동 연구 과제, 우수 기업체 산학 프로젝트에 참여하여 논문작성, 국내외 공동연구, 
-SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 2024년 10월 현재 SDEV 연구실에서 진행 중인 연구 프로젝트는 아래와 같습니다:</p>
-
-<ul>
-  <li>오류 재현을 위한 로그 기반 테스트 생성, 소프트웨어재난연구센터(ERC), 2021-2028, 연구재단</li>
-  <li>지능형 자동 소스코드 수정 기술 개발, 2021-2024, 슈어소프트테크, 아크릴, KAIST, UNIST 공동연구</li>
-</ul>
-
-<p>대학원에 진학한 학생은 국가연구과제 및 산업체R&amp;D 과제에 참여하여 학생인건비를 받을 수 있습니다.
-우리 연구실은 각종 프로젝트를 통해 대학원생이 연구과 학업에 온전히 집중할 수 있는 학업 환경을 갖추는 것을 제일 목표로 지원하고 있습니다.
-또한 연구실을 거치는 동안 우리 사회의 소프트웨어 공학분야의 연구자로서 발전할 수 있도록 성장에 필요한 유형적, 무형적 자원을 적극 지원해오고 있습니다.</p>
-
-<h3 id="연락방법">연락방법</h3>
-<p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
-
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">2025 한국 소프트웨어공학 학술대회(KCSE) 개최 안내</title><link href="/2024/10/07/KCSE-2025.html" rel="alternate" type="text/html" title="2025 한국 소프트웨어공학 학술대회(KCSE) 개최 안내" /><published>2024-10-07T00:00:00+09:00</published><updated>2024-10-07T00:00:00+09:00</updated><id>/2024/10/07/KCSE-2025</id><content type="html" xml:base="/2024/10/07/KCSE-2025.html"><![CDATA[<h1 id="kcse-2025-개최-안내">KCSE 2025 개최 안내</h1>
-
-<p><a href="https://sigsoft.or.kr/kcse2025">https://sigsoft.or.kr/kcse2025</a>
-<br /></p>
-
-<p><img src="https://sigsoft.or.kr/wp-content/uploads/2016/11/cropped-SES_logo_2014_wobg-e1481959667547.png" alt="소프트웨어공학소사이어티" /></p>
-
-<p><br /></p>
-
-<p><a href="https://sigsoft.or.kr/kcse2025/">제 27회 한국 소프트웨어공학 학술대회(KCSE 2025)</a>가 2025년 1월 20~22일 강원도 평창군 한화리조트 평창에서 열립니다.
-이번 행사에서는 “지능형 개발 기술과 소프트웨어 공학의 미래”를 주제로 다양한 발표와 토론이 있을 예정입니다. 
-논문 접수 기간은 올해 11월 1일부터 <strong>12월 20일</strong>까지입니다.</p>
-
-<p><br /></p>
-
-<p>이번 KCSE 2025에서 홍신 교수는 학술위원장 역할을 맡았습니다.</p>
-
-<p><br /></p>
-
-<p>논문 모집과 학회 행사에 많은 관심과 참여 부탁드립니다.</p>
-
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[KCSE 2025 개최 안내]]></summary></entry></feed>
+<p><strong><a href="https://sdevlab.notion.site/sdevlab-intro">[링크]</a></strong></p>]]></content><author><name></name></author><summary type="html"><![CDATA[학부생 전공탐색을 위한 SDEV 연구실 소개]]></summary></entry></feed>
