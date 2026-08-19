@@ -17,11 +17,11 @@ permalink: /teaching/
 * **Introduction to System Programming**: 17s, 18s
 * **Database System**: 16s, 17s
 
-## Industrial Training Program ##
+### Industrial Training Program ###
 
 * Certificate Committee, LG Software Development Engineering in Testing (SDET) Expert Training Program, Aug-Dec 2025
-*	Instructor, SQA Intensive Program, Samsung Electronics DS, Jul 2025
-*	Instructor, Software Engineering Intensive Training Program, Samsung Electronics DS, Jun—Jul 2024
-*	Program Director and Instructor, Software Testing Intensive Course, Samsung Advanced Technology Training Institute, Samsung Research, Jul 2021—Aug 2023
-*	Co-Instructor, Greybox Fuzzing and Automated Testing Techniques, Software Engineering Summer School, Software Engineering Society of KIISE, July 25—27 2022
-*	Instructor, LG Software Development Engineering in Testing (SDET) Expert Training Program, Jun 28-29 2017
+* Instructor, SQA Intensive Program, Samsung Electronics DS, Jul 2025
+* Instructor, Software Engineering Intensive Training Program, Samsung Electronics DS, Jun—Jul 2024
+* Program Director and Instructor, Software Testing Intensive Course, Samsung Advanced Technology Training Institute, Samsung Research, Jul 2021—Aug 2023
+* Co-Instructor, Greybox Fuzzing and Automated Testing Techniques, Software Engineering Summer School, Software Engineering Society of KIISE, July 25—27 2022
+* Instructor, LG Software Development Engineering in Testing (SDET) Expert Training Program, Jun 28-29 2017
