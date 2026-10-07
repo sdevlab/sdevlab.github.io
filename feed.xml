@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-10-06T21:53:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">AI 보안 내재화핵심기술 연구과제 선정</title><link href="http://localhost:4000/2026/03/31/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화핵심기술 연구과제 선정" /><published>2026-03-31T08:00:00-07:00</published><updated>2026-03-31T08:00:00-07:00</updated><id>http://localhost:4000/2026/03/31/Project</id><content type="html" xml:base="http://localhost:4000/2026/03/31/Project.html"><![CDATA[<h2 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-10-07T01:09:42-07:00</updated><id>/feed.xml</id><title type="html">SDEV Lab</title><subtitle>Software Development and Verification Methodologies Lab@CBNU </subtitle><entry><title type="html">과기부 기초 핵심연구 &amp;amp; 교육부 이공계 석사연구장려금 과제 선정</title><link href="/2026/09/06/Project.html" rel="alternate" type="text/html" title="과기부 기초 핵심연구 &amp;amp; 교육부 이공계 석사연구장려금 과제 선정" /><published>2026-09-06T08:00:00-07:00</published><updated>2026-09-06T08:00:00-07:00</updated><id>/2026/09/06/Project</id><content type="html" xml:base="/2026/09/06/Project.html"><![CDATA[<p>우리가 제안한 두 연구 과제가 국가연구개발사업의 지원대상으로 선정 되었습니다:</p>
+
+<ul>
+  <li><strong>소프트웨어 개발 에이전트를 위한 체계적 디버깅 및 디버깅 기술</strong>
+    <ul>
+      <li>지원사업: 과기부 이공기초연구지원사업-핵심연구(기본B)</li>
+      <li>지원기간: 2026년 9월–2029년 8월</li>
+    </ul>
+  </li>
+  <li><strong>다중프로젝트 결함탐지를 위한 LLM 기반 소프트웨어 변경영향 분석 기술(윤별 석사과정)</strong>
+    <ul>
+      <li>지원사업: 교육부 이공계 석사과졍연구장려금 지원사업</li>
+      <li>지원기간: 2026년 9월–2027년 8월</li>
+    </ul>
+  </li>
+</ul>
+
+<p>이 연구를 통해 자율개발(Autonomous Software Development)의 확산이 
+소프트웨어 안전성과 신뢰성을 해칠 수 있는 가능성을 과학적으로 이해하고
+이 문제를 효과적으로 해결하는 기술을 만들고자 합니다. 연구자원을 활용하여
+AI 시대에 우리 사회에 필요한 새로운 지식을 탐구하고, 그런 일을 해낼 수 있는 
+연구자를 교육하는 일에 최선을 다하겠습니다.</p>
+
+<p><br />
+-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[우리가 제안한 두 연구 과제가 국가연구개발사업의 지원대상으로 선정 되었습니다:]]></summary></entry><entry><title type="html">AI 보안 내재화핵심기술 연구과제 선정</title><link href="/2026/03/31/Project.html" rel="alternate" type="text/html" title="AI 보안 내재화핵심기술 연구과제 선정" /><published>2026-03-31T08:00:00-07:00</published><updated>2026-03-31T08:00:00-07:00</updated><id>/2026/03/31/Project</id><content type="html" xml:base="/2026/03/31/Project.html"><![CDATA[<h2 id="ai-보안-내재화-핵심기술-연구개발-과제-선정">AI 보안 내재화 핵심기술 연구개발 과제 선정</h2>
 
 <p><br /></p>
 
@@ -20,7 +44,7 @@ AI Redteaming이란 AI 서비스의 보안취약점을 탐지하기 위한 테�
 Multi-agent system과 같은 복잡한 AI 서비스에 대해 효과적으로 동작하는 
 AI Redteaming 기술 연구를 수행할 계획입니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[AI 보안 내재화 핵심기술 연구개발 과제 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="http://localhost:4000/2025/12/30/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-30T07:00:00-08:00</published><updated>2025-12-30T07:00:00-08:00</updated><id>http://localhost:4000/2025/12/30/Recruit</id><content type="html" xml:base="http://localhost:4000/2025/12/30/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[AI 보안 내재화 핵심기술 연구개발 과제 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기 2차)</title><link href="/2025/12/30/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기 2차)" /><published>2025-12-30T07:00:00-08:00</published><updated>2025-12-30T07:00:00-08:00</updated><id>/2025/12/30/Recruit</id><content type="html" xml:base="/2025/12/30/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 12월 31일</p>
 
@@ -87,13 +111,13 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 <h3 id="연락방법">연락방법</h3>
 <p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">2025 정보과학회 소프트웨어소사이어티 우수논문상</title><link href="http://localhost:4000/2025/12/17/Award.html" rel="alternate" type="text/html" title="2025 정보과학회 소프트웨어소사이어티 우수논문상" /><published>2025-12-17T07:00:00-08:00</published><updated>2025-12-17T07:00:00-08:00</updated><id>http://localhost:4000/2025/12/17/Award</id><content type="html" xml:base="http://localhost:4000/2025/12/17/Award.html"><![CDATA[<h1 id="2025-정보과학회-소프트웨어소사이어티-우수논문상-수상">2025 정보과학회 소프트웨어소사이어티 우수논문상 수상</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">2025 정보과학회 소프트웨어소사이어티 우수논문상</title><link href="/2025/12/17/Award.html" rel="alternate" type="text/html" title="2025 정보과학회 소프트웨어소사이어티 우수논문상" /><published>2025-12-17T07:00:00-08:00</published><updated>2025-12-17T07:00:00-08:00</updated><id>/2025/12/17/Award</id><content type="html" xml:base="/2025/12/17/Award.html"><![CDATA[<h1 id="2025-정보과학회-소프트웨어소사이어티-우수논문상-수상">2025 정보과학회 소프트웨어소사이어티 우수논문상 수상</h1>
 
 <p>2025년 12월 18일</p>
 
 <p>우리 연구실에서 2024년 정보과학회논문지에 발표한 “MISRA C 코딩 가이드라인 준수를 위한 코드 변경은 어떻게 이루어지는가: 오픈소스 소프트웨어 프로젝트를 대상으로 한 실태 조사” 논문이 2025년 정보과학회 소프트웨어소사이어티 우수논문상을 수상하였습니다.</p>
 
-<p>2025년 12월 18일 KSC 2025 뱅큇에서 진행된 시상식에 저자인 박수현 졸업생이 참가하여 수상하였습니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[2025 정보과학회 소프트웨어소사이어티 우수논문상 수상]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="http://localhost:4000/2025/10/20/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-20T08:00:00-07:00</published><updated>2025-10-20T08:00:00-07:00</updated><id>http://localhost:4000/2025/10/20/Recruit</id><content type="html" xml:base="http://localhost:4000/2025/10/20/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+<p>2025년 12월 18일 KSC 2025 뱅큇에서 진행된 시상식에 저자인 박수현 졸업생이 참가하여 수상하였습니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[2025 정보과학회 소프트웨어소사이어티 우수논문상 수상]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2026년 전기)</title><link href="/2025/10/20/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2026년 전기)" /><published>2025-10-20T08:00:00-07:00</published><updated>2025-10-20T08:00:00-07:00</updated><id>/2025/10/20/Recruit</id><content type="html" xml:base="/2025/10/20/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 10월 21일</p>
 
@@ -162,7 +186,7 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 <h3 id="연락방법">연락방법</h3>
 <p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">김준희, 한나린 학생, 교육부 이공분야 학술연구지원사업(석사과정연구장려금) 선정</title><link href="http://localhost:4000/2025/08/31/Project.html" rel="alternate" type="text/html" title="김준희, 한나린 학생, 교육부 이공분야 학술연구지원사업(석사과정연구장려금) 선정" /><published>2025-08-31T08:00:00-07:00</published><updated>2025-08-31T08:00:00-07:00</updated><id>http://localhost:4000/2025/08/31/Project</id><content type="html" xml:base="http://localhost:4000/2025/08/31/Project.html"><![CDATA[<h1 id="김준희-한나린-석사과정생연구장려금-지원사업-선정">김준희, 한나린 석사과정생연구장려금 지원사업 선정</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">김준희, 한나린 학생, 교육부 이공분야 학술연구지원사업(석사과정연구장려금) 선정</title><link href="/2025/08/31/Project.html" rel="alternate" type="text/html" title="김준희, 한나린 학생, 교육부 이공분야 학술연구지원사업(석사과정연구장려금) 선정" /><published>2025-08-31T08:00:00-07:00</published><updated>2025-08-31T08:00:00-07:00</updated><id>/2025/08/31/Project</id><content type="html" xml:base="/2025/08/31/Project.html"><![CDATA[<h1 id="김준희-한나린-석사과정생연구장려금-지원사업-선정">김준희, 한나린 석사과정생연구장려금 지원사업 선정</h1>
 
 <p>김준희 학생과 한나린 학생이 각각 교육부 이공분야 학술연구지원사업(석사과정생연구장려금지원사업)에 
 각각 선정되었습니다.</p>
@@ -185,7 +209,7 @@ LLM을 통해 다양한 상황 정보를 활용함으로써 전통적인 프로�
 한계를 넘어선 새로운 Greybox Fuzzing 탐색 방식을 제시할 수 있을 것으로 기대합니다.</p>
 
 <p>김준희 학생과 한나린 학생은 각 과제의 연구책임자로서 2025년 9월부터 1년간 해당 연구에 대한 
-연구비를 지원 받게 됩니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[김준희, 한나린 석사과정생연구장려금 지원사업 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 하반기)</title><link href="http://localhost:4000/2025/05/14/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 하반기)" /><published>2025-05-14T08:00:00-07:00</published><updated>2025-05-14T08:00:00-07:00</updated><id>http://localhost:4000/2025/05/14/Recruit</id><content type="html" xml:base="http://localhost:4000/2025/05/14/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
+연구비를 지원 받게 됩니다.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[김준희, 한나린 석사과정생연구장려금 지원사업 선정]]></summary></entry><entry><title type="html">SDEV 연구실 대학원생 모집(2025년 하반기)</title><link href="/2025/05/14/Recruit.html" rel="alternate" type="text/html" title="SDEV 연구실 대학원생 모집(2025년 하반기)" /><published>2025-05-14T08:00:00-07:00</published><updated>2025-05-14T08:00:00-07:00</updated><id>/2025/05/14/Recruit</id><content type="html" xml:base="/2025/05/14/Recruit.html"><![CDATA[<h1 id="sdev-연구실-대학원생-모집">SDEV 연구실 대학원생 모집</h1>
 
 <p>2025년 5월 15일</p>
 
@@ -251,7 +275,7 @@ SW 개발 및 실험 등을 통한 첨단 연구에 참여할 수 있습니다. 
 <h3 id="연락방법">연락방법</h3>
 <p>대학원 진학에 관심이 있으시다면 홍신 교수(hongshin@gmail.com)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.</p>
 
-<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">전공탐색을 위한 SDEV 연구실 소개</title><link href="http://localhost:4000/2025/03/24/Intro.html" rel="alternate" type="text/html" title="전공탐색을 위한 SDEV 연구실 소개" /><published>2025-03-24T08:00:00-07:00</published><updated>2025-03-24T08:00:00-07:00</updated><id>http://localhost:4000/2025/03/24/Intro</id><content type="html" xml:base="http://localhost:4000/2025/03/24/Intro.html"><![CDATA[<h1 id="학부생-전공탐색을-위한-sdev-연구실-소개">학부생 전공탐색을 위한 SDEV 연구실 소개</h1>
+<p>-홍신</p>]]></content><author><name></name></author><summary type="html"><![CDATA[SDEV 연구실 대학원생 모집]]></summary></entry><entry><title type="html">전공탐색을 위한 SDEV 연구실 소개</title><link href="/2025/03/24/Intro.html" rel="alternate" type="text/html" title="전공탐색을 위한 SDEV 연구실 소개" /><published>2025-03-24T08:00:00-07:00</published><updated>2025-03-24T08:00:00-07:00</updated><id>/2025/03/24/Intro</id><content type="html" xml:base="/2025/03/24/Intro.html"><![CDATA[<h1 id="학부생-전공탐색을-위한-sdev-연구실-소개">학부생 전공탐색을 위한 SDEV 연구실 소개</h1>
 
 <p>2025년 3월 25일
 <br /><br /></p>
