@@ -20,7 +20,7 @@ permalink: /publications/
 -->
 </p>
 
-<h4> 2026 </h4>  
+	<h4> 2026 </h4>  
 
 <ul>
 
@@ -29,9 +29,7 @@ permalink: /publications/
 Narin Han and Shin Hong,
 <a href="https://arxiv.org/abs/2608.07926">
 Refining LLM-based Directed Input Generation via Runtime Value Feedback (Short Paper),</a>
-<a href="https://conf.researchr.org/home/splash-issta-2026/lmpl-2026">
-The 2nd International Workshop on Language Models and Programming Languages (LMPL)
-co-located with SPLASH-ISSTA 2026, 9 October 2026
+The 2nd International Workshop on Language Models and Programming Languages (LMPL) (co-located with SPLASH-ISSTA 2026), 9 October 2026
 <br/><br/>
 </li>
 </font>
@@ -40,7 +38,7 @@ co-located with SPLASH-ISSTA 2026, 9 October 2026
 K. Kim, N. Han, J. Kim, S. Hong,
 <a href="https://www.kiise.or.kr/e_journal/2026/8/KTCP/05.pdf">
 재귀적 탐색 전략을 활용한 실행경로 목표 지향 퍼징 (Effective Path-target Directed Greybox Fuzzing with Recursive Search Strategy)
-</a>, KIISE Transactions on Computing Practices, 32(8), Aug 2026
+</a>, KIISE Transactions on Computing Practices, 32(8), Aug 2026 (written in Korean)
 <br/><br/></li></font>
 
 <font size=3> 
@@ -48,14 +46,15 @@ K. Kim, N. Han, J. Kim, S. Hong,
 Kieun Kim, Seongmin Lee, Shin Hong,
 <a href="https://dl.acm.org/doi/10.1145/3696630.3731436">
 Refining Fuzzed Crashing Inputs for Better Fault Diagnosis (Extended Abstract)</a>,
-33rd ACM International Conference on the Foundations of Software Engineering (FSE),
-<a href="">Poster Track</a>, June 2025
+The 33rd ACM International Conference on the Foundations of Software Engineering (FSE), Poster Track, June 2025
 <br/><br/>
 </li>
 </font>
+</ul>
 
-<h4> 2025 </h4>
+      <h4> 2025 </h4>
 
+<ul>
 <font size=3> <li> 
 A. Lee, Y. Choi., S. Hong, Y. Kim, K. Cho, M. Kim,
 <a href="https://dl.acm.org/doi/10.1145/3697014">
@@ -73,8 +72,24 @@ OSS-Fuzz 테스트 이력을 활용한 체계적인 프로젝트-교차 결함 �
 Korean Conference on Software Engineering (KCSE 2025), Jan 2025
 <br/><br/></li></font>
 
-<h4> 2024 </h4>
+<font size=3> <li>
+K. Kim, J. Kim, S. Hong,
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318196">
+재귀적 탐색을 통한 효과적인 실행경로 목표 지향 퍼징 (Path-target Directed Greybox Fuzzing with Recursive Search Strategy)
+</a>, Korean Congress of Computing (KCC 2025), Jul 2025 (<b>Best presentation award</b>)
+<br/><br/></li></font>
 
+<font size=3> <li>
+J. Kim, Y. Kang, A. Lee, S. Hong, S. Kim,
+OSS-Fuzz 테스트 이력을 활용한 체계적인 프로젝트-교차 결함 사례의 수집 (Systematically Collecting Cross-project Bug Cases from OSS-Fuzz Test History),
+Korean Conference on Software Engineering (KCSE 2025), Jan 2025
+<br/><br/></li></font>
+
+</ul>
+
+
+     <h4> 2024 </h4>
+<ul>
 <font size=3> <li> 
 Jeewoong Kim and Shin Hong, 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S016412122400164X">
@@ -89,16 +104,23 @@ S. Park, J. Nam, S. Hong,
 An Empirical Study of MISRA-C Related Source Code Changes in Open-source Software Projects
 (MISRA C 코딩 가이드라인 준수를 위한 코드 변경은 어떻게 이루어지는가: 오픈소스 소프트웨어 프로젝트를 대상으로 한 실태 조사)</a>, Journal of KIISE (정보과학회논문지), 51(8), Aug 2024
 <br/><br/></li></font>
+</ul>
+
 
 <h4> 2023 </h4>
-<font size=3> <li> 
+
+<ul>
+<font size=3> 
+<li> 
 Jeewoong Kim and Shin Hong, 
 Poster: BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, 
 IEEE International Conference on Software Testing, Verification and Validation (ICST), Poster Track, 
 Apr 2023 <br/><br/></li> </font>
+</ul>
+
 
 <h4> 2022 </h4>
-
+<ul>
 <font size=3> <li> 
 Yunho Kim and Shin Hong, 
 Learning-based Mutant Reduction using Fine-grained Mutation Operators, 
@@ -120,10 +142,10 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 
 <font size=3><li> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) <br/><br/></li></font>
 <font size=3><li> H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021<br/><br/></li></font>
-<
+</ul>
 
 <h4> 2021 </h4>
-
+<ul>
 <font size=3> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, Nov 14-20, 2021 <a href="https://hongshin.github.io/pubs/ase21-industry.pdf">[pdf]</a> <br/><br/></li></font>
 
 <font size=3> <li> R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), Oct 11-12, 2021 <a href="https://hongshin.github.io/pubs/ssbse21-evosuite.pdf">[pdf]</a> <br/><br/></li></font>
@@ -131,9 +153,10 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 <font size=3><li> J. Cho and S. Hong, Improving Mutation-based Fuzzing by Input Keyword Extraction, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (Best short paper award) <a href="https://hongshin.github.io/pubs/kcse21-fuzzing.pdf">[pdf]</a> <br/><br/></li></font>
 
 <font size=3> <li> Y. Kim and S. Hong, DeMiner: Test Generation for High Test Coverage through Mutant Exploration, Software Testing, Verification and Reliability (STVR), Volume 31, Issue 1-2, January-March, 2021 <br/><br/></li></font>
+</ul>
 
     <h4> 2020 </h4>
-
+<ul>
 <font size=3> <li> J. Jeon and S. Hong, Threats to Validity in Evaluating Mutation-based Fault Localization, International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER), Jul 6-11, 2020 (acceptance ratio: 30%) <a href="https://hongshin.github.io/pubs/icse20-mbfl.pdf">[pdf]</a> <br/><br/></li> </font>
 
 <font size=3><li>	D. Kim, S. Kim, S. Hong, Effective Continuous Testing with Automated Unit Test Generation Technique, Korean Software Congress (KSC), Dec 2020 (Best undergraduate student paper award) <a href="https://hongshin.github.io/pubs/ksc20-randoop.pdf">[pdf]</a><br/><br/></li></font>
@@ -143,10 +166,11 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 
 <font size=3><li>	J. Kim, S. Hong, Evaluation of Test Requirement Extraction Techniques for Javadoc Description, Korean Software Engineering Conference (KCSE), 2020 (short paper) <br/><br/></li></font>
 
-    <h4> 2019 </h4>
-
 <font size=3><li>	H. Choe, H. Leem, H. Kim, S. Hong, Design and Implementation of Distributed Concolic Testing Tool for Embedded Software, Korean Software Engineering Conference, 2020 (Best short paper award) <br/><br/></li></font>
-<h4> 2019 </h4>
+</ul>
+
+    <h4> 2019 </h4>
+<ul>
 
 <font size=3> <li> Y. Kim, S. Hong, M. Kim, Target-Driven Compositional Concolic Testing with Function Summary Refinement for Effective Bug Detection, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Nov 26-30, 2019 <a href="https://hongshin.github.io/pubs/fse19-focal.pdf">[pdf]</a> <br/><br/></li></font>
 
@@ -154,8 +178,10 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 
 <font size=3> <li> S. Lee, S. Hong, J. Yi, T. Kim, C. Kim, S. Yoo, Classifying False Positive Static Checker Alarms in Continuous Integration using Convolutional Neural Networks, International Conference on Software Testing, Verification and Validation (ICST), Industry Track, Apr 22-27, 2019 <a href="https://hongshin.github.io/pubs/icst2019-falsealarm.pdf">[pdf]</a> <br/><br/></li></font>
 
-     <h4> 2018 </h4>
+</ul>
 
+     <h4> 2018 </h4>
+<ul>
 <font size=3><li>	H. Choe and S. Hong, A Classification of Unit Test Bugs in Java Programs, Korean Congress of Computing (KCC), Jun 20-22, 2018 (Best paper award) <br/><br/></li></font>
  <br/><br/></li></font>
 
@@ -163,23 +189,26 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 
 <font size=3><li>	J. Lee and S. Hong, Detecting Memory Bloats of Java Programs by Monitoring Repeated Unit Test Executions: A Case Study with Apache Commons VFS, Korean Software Engineering Conference (KCSE), Jan 19-21, 2018 <br/><br/></li></font>
 
-<h4> 2017 </h4>
+</ul>
 
+<h4> 2017 </h4>
+<ul>
 <font size=3><li>	J. Lim and S. Hong, Effective Korean-English Parallel Sentence Extraction from Wikipedia by Consecutive Sentence Sequence Matching, Korean Congress of Computing (KCC), Jun 18-21, 2017
 <a href="https://hongshin.github.io/pubs/kcc17-hancorpus.pdf">[pdf]</a>
 
 <font size=3> <li> S. Hong, T. Kwak, B. Lee, Y. Jeon, B. Ko, Y. Kim, M. Kim, MUSEUM: Debugging Real-World Multilingual Programs Using Mutation Analysis, Information and Software Technology (IST), 82, pp. 80—95, Feb 2017 <a href="https://hongshin.github.io/pubs/ist-museum.pdf">[pdf]</a><br/><br/></li></font>
+</ul>
 
 <h4> 2016 </h4>
 
+<ul>
 <font size=3><li>	W. Kim, H. Choi, S. Hong, Application of M/G/c/c Queueing Models to Optimize Book Circulation Process in University Library, Journal of the Korea Management Engineering Society, Dec 2016 <br/><br/></li></font>
 
 <font size=3><li>	Y. Jeon, Y. Kim, S. Hong, M. Kim, Mutagen4J: Effective Mutation Generation Tool for Java Programs, Journal of KIISE (JOK), 43(9), pp. 974—982, Sep 2016 <br/><br/></li></font>
 </ul>
 
-
 <h4> Before 2016 </h4>
-
+<ul>
 <font size=3> <li> S. Hong, B. Lee, T. Kwak, Y. Jeon, B. Ko, Y. Kim, M. Kim, Mutation Based Fault Localization for Real-World Multilingual Programs, 30th IEEE/ACM International Conference on Automated Software Engineering (ASE), Nov 9-13, 2015 (acceptance ratio: 19%)  <br/><br/></li></font>
 
 <font size=3> <li> S. Hong, M. Staats, J. Ahn, M. Kim, G. Rothermel, Are Concurrency Coverage Metrics Effective for Testing: A Comprehensive Empirical Investigation, Software Testing, Verification and Reliability (STVR), 25(4), pp.334-370, Jun 2015 <br/><br/></li></font>
@@ -191,21 +220,4 @@ font size=3> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source R
 <font size=3> <li> M. Staats, S. Hong, M. Kim, and G. Rothermel, Understanding User Understanding: Determining Correctness of Generated Program Invariants, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) <br/><br/></li></font>
 <font size=3> <li> S. Hong, J. Ahn, S. Park, M. Kim, and M. J. Harrold, Testing Concurrent Programs to Achieve High Synchronization Coverage, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) <br/><br/></li></font>
 <font size=3> <li> M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 <br/><br/></li></font>
-</ol>
-
-<br>
- 
-<ol> 
-
-<font size=3> <li>
-K. Kim, J. Kim, S. Hong,
-<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318196">
-재귀적 탐색을 통한 효과적인 실행경로 목표 지향 퍼징 (Path-target Directed Greybox Fuzzing with Recursive Search Strategy)
-</a>, Korean Congress of Computing (KCC 2025), Jul 2025 (<b>Best presentation award</b>)
-<br/><br/></li></font>
-
-<font size=3> <li>
-J. Kim, Y. Kang, A. Lee, S. Hong, S. Kim,
-OSS-Fuzz 테스트 이력을 활용한 체계적인 프로젝트-교차 결함 사례의 수집 (Systematically Collecting Cross-project Bug Cases from OSS-Fuzz Test History),
-Korean Conference on Software Engineering (KCSE 2025), Jan 2025
-<br/><br/></li></font>
+</ul>

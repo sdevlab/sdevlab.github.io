@@ -38,3 +38,5 @@ gem "csv", "~> 3.3"
 gem "base64", "~> 0.3.0"
 
 gem "bigdecimal", "~> 4.1"
+
+gem 'cgi', '~> 0.5.1'
